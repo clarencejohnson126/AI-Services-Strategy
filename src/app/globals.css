@@ -1,0 +1,102 @@
+@import "tailwindcss";
+
+:root {
+  --background: #ffffff;
+  --foreground: #1a1a1a;
+  --green: #009966;
+  --green-light: #00b377;
+  --orange: #de5f04;
+  --dark: #111111;
+  --card-bg: #f8f7f5;
+  --card-border: #e8e6e1;
+  --muted: #6b6b6b;
+  --section-alt: #f5f0f0;
+  --hero-dark: #0a0a0a;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-green: var(--green);
+  --color-green-light: var(--green-light);
+  --color-orange: var(--orange);
+  --color-dark: var(--dark);
+  --color-card-bg: var(--card-bg);
+  --color-card-border: var(--card-border);
+  --color-muted: var(--muted);
+  --color-section-alt: var(--section-alt);
+  --color-hero-dark: var(--hero-dark);
+  --font-display: var(--font-display);
+  --font-body: var(--font-body);
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-body), sans-serif;
+}
+
+/* Smooth scrolling */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+}
+::-webkit-scrollbar-track {
+  background: var(--background);
+}
+::-webkit-scrollbar-thumb {
+  background: var(--card-border);
+  border-radius: 3px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: var(--muted);
+}
+
+/* Selection color */
+::selection {
+  background: rgba(0, 153, 102, 0.2);
+  color: #111;
+}
+
+/* Glow effects */
+.glow-green {
+  box-shadow: 0 0 40px rgba(0, 153, 102, 0.15), 0 0 80px rgba(0, 153, 102, 0.05);
+}
+
+.glow-orange {
+  box-shadow: 0 0 40px rgba(222, 95, 4, 0.15), 0 0 80px rgba(222, 95, 4, 0.05);
+}
+
+/* Gradient text */
+.text-gradient-green {
+  background: linear-gradient(135deg, #009966, #00b377);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.text-gradient-orange {
+  background: linear-gradient(135deg, #de5f04, #f07a20);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+/* WhatsApp chat bubble animation */
+@keyframes chat-bounce {
+  0%, 100% { transform: scale(1); }
+  50% { transform: scale(1.05); }
+}
+.chat-bounce {
+  animation: chat-bounce 2s ease-in-out infinite;
+}
+
+/* Divider line */
+.section-divider {
+  height: 1px;
+  background: linear-gradient(90deg, transparent, var(--card-border), transparent);
+}
