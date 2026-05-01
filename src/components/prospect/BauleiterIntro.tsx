@@ -46,19 +46,19 @@ export default function BauleiterIntro({ prospect }: Props) {
 
           <div className="md:col-span-2 text-gray-700 space-y-4 text-lg leading-relaxed">
             <p>
-              11 Jahre Bauleiter auf Hochbau- und Tiefbau-Projekten bis €100
-              Mio. Hochhäuser, Verwaltungsbauten, Industrie. Auf der anderen
+              11 Jahre Bauleiter im Hochbau auf Projekten bis €100 Mio.
+              Hochhäuser, Verwaltungsbauten, Innenausbau. Auf der anderen
               Seite des Tisches: {TRADE_VERB[prospect.trade]} wie ihr.
             </p>
             <p>
               Was mich Monat für Monat genervt hat: Saubere Firmen, gute Arbeit,
-              und am Ende des Projekts trotzdem €5.000-15.000 verschenkt - weil
+              und am Ende des Projekts trotzdem 100.000 Euro verschenkt, weil
               keiner alle Mails, alle Anweisungen, alle Behinderungsanzeigen
               gleichzeitig im Kopf behalten kann.
             </p>
             <p>
-              Inzwischen baue ich KI-Agenten, die genau das übernehmen. Kein
-              Software-Anbieter, keine Beraterfirma - Ein-Mann-Werkstatt mit
+              Inzwischen bauen wir KI-Agenten, die genau das übernehmen. Kein
+              Software-Anbieter, keine Beraterfirma, sondern Spezialisten mit
               Bauleiter-Hintergrund. Damit du dich um die Baustelle kümmern
               kannst, nicht um deinen Posteingang.
             </p>
