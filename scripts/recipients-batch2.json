@@ -1,0 +1,22 @@
+[
+  { "slug": "ehrhard", "domain": "stuckateur-ehrhard.de", "email": "info@ehrhard.de" },
+  { "slug": "itm", "domain": "itm-innenausbau.de", "email": "info@itm-innenausbau.de" },
+  { "slug": "kohl-tb", "domain": "kohl-lu.de", "email": "info@kohl-lu.de" },
+  { "slug": "curri", "domain": "curri-lu.de", "email": "info@curri-lu.de" },
+  { "slug": "asbau-pfalz", "domain": "asbau-pfalz.com", "email": "kontakt@as-bau-pfalz.com" },
+  { "slug": "wernz", "domain": "elektro-wernz.com", "email": "info@elektro-wernz.com" },
+  { "slug": "wenzel", "domain": "elektrowenzel.de", "email": "info@elektrowenzel.de" },
+  { "slug": "menzel", "domain": "elektrotechnik-menzel.de", "email": "info@et-menzel.de" },
+  { "slug": "richard-mueller", "domain": "richard-mueller.com", "email": "info@richard-mueller.com" },
+  { "slug": "arnold-elek", "domain": "arnold-hd.de", "email": "info@arnold-hd.de" },
+  { "slug": "kuebler-elek", "domain": "kuebler-elektro.de", "email": "info@kuebler-elektro.de" },
+  { "slug": "scholl-elek", "domain": "elektro-scholl.com", "email": "service@elektro-scholl.com" },
+  { "slug": "jordine", "domain": "elektro-jordine.com", "email": "info@elektro-jordine.de" },
+  { "slug": "hsh-boden", "domain": "hsh-heidelberg.de", "email": "kontakt@hsh-heidelberg.de" },
+  { "slug": "mch-boden", "domain": "mch-bodendesign.de", "email": "mch.bodendesign@gmail.com" },
+  { "slug": "asm-raum", "domain": "asm-raumausstatter.de", "email": "info@asm-raumausstatter.de" },
+  { "slug": "parkettdesign-bs", "domain": "parkettdesign-bergstrasse.de", "email": "info@parkettdesign-bergstrasse.de" },
+  { "slug": "coloris", "domain": "coloris-gmbh.de", "email": "info@coloris-gmbh.de" },
+  { "slug": "maler-eck", "domain": "maler-eck.de", "email": "info@maler-eck.de" },
+  { "slug": "weisbrod", "domain": "maler-weisbrod.de", "email": "info@maler-weisbrod.de" }
+]
