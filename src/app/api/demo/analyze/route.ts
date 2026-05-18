@@ -3,9 +3,13 @@ import OpenAI from "openai";
 import { getDemoDataForTrade } from "@/lib/demo-data";
 import type { Trade } from "@/lib/trades";
 
-const openai = new OpenAI({
-  apiKey: process.env.OPENAI_API_KEY,
-});
+function getOpenAI() {
+  const apiKey = process.env.OPENAI_API_KEY;
+  if (!apiKey) {
+    throw new Error("OPENAI_API_KEY is not set");
+  }
+  return new OpenAI({ apiKey });
+}
 
 const SYSTEM_PROMPT = `Du bist NachtragsAgent - ein KI-Assistent für deutsche Bauunternehmer (Nachunternehmer/Subunternehmer im Hochbau).
 
@@ -79,7 +83,7 @@ ${e.body}
 
 Bitte analysiere und antworte als JSON gemäß Anweisung.`;
 
-    const completion = await openai.chat.completions.create({
+    const completion = await getOpenAI().chat.completions.create({
       model: "gpt-4o-mini",
       messages: [
         { role: "system", content: SYSTEM_PROMPT },

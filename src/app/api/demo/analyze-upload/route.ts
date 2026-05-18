@@ -4,9 +4,13 @@ import OpenAI from "openai";
 export const runtime = "nodejs";
 export const maxDuration = 60;
 
-const openai = new OpenAI({
-  apiKey: process.env.OPENAI_API_KEY,
-});
+function getOpenAI() {
+  const apiKey = process.env.OPENAI_API_KEY;
+  if (!apiKey) {
+    throw new Error("OPENAI_API_KEY is not set");
+  }
+  return new OpenAI({ apiKey });
+}
 
 // Vercel Hobby/Pro default body limit is ~4.5 MB. This caps to that.
 const MAX_BYTES = Math.floor(4.5 * 1024 * 1024);
@@ -143,7 +147,7 @@ ${emailsTruncated}
 
 Bitte analysiere und antworte als JSON gemäß Anweisung.`;
 
-    const completion = await openai.chat.completions.create({
+    const completion = await getOpenAI().chat.completions.create({
       model: "gpt-4o-mini",
       messages: [
         { role: "system", content: SYSTEM_PROMPT },
