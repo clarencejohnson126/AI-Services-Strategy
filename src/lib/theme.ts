@@ -117,7 +117,16 @@ export function pickPalette(slug: string): Palette {
   return PALETTES[hash(slug) % PALETTES.length];
 }
 
-// Two hero compositions, chosen deterministically, so the layout also varies.
-export function pickHeroVariant(slug: string): "spotlight" | "split" {
-  return hash(slug + "x") % 2 === 0 ? "spotlight" : "split";
+// Four visually distinct page layouts, chosen deterministically per company.
+//  spotlight = dark centered hero
+//  editorial = light magazine hero, dark text, accent rule
+//  poster    = full accent-colour hero, bold
+//  feature   = image/accent panel split hero, asymmetric
+export type Layout = "spotlight" | "editorial" | "poster" | "feature";
+
+export function pickLayout(slug: string, hasImage: boolean): Layout {
+  const opts: Layout[] = hasImage
+    ? ["feature", "spotlight", "editorial", "poster"]
+    : ["editorial", "spotlight", "poster", "editorial"];
+  return opts[hash(slug + "L") % opts.length];
 }
