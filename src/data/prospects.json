@@ -12,7 +12,8 @@
       "Bei klassischem Estrich und BroPlan-Designböden im selben Auftrag wechseln Aufbau und Trocknungszeiten, was die Folgegewerke koordinieren muss",
       "Alt- und Neubausanierung gleichzeitig: Bestandsaufmaß und Feuchtemessung pro Baustelle binden viel Zeit am Telefon"
     ],
-    "opener": "Ihr seid Meisterbetrieb in der dritten Generation und produziert den Estrich mit euren eigenen Express-Sattelzügen direkt auf der Baustelle, über ein Gebiet von rund 100 Kilometern. Das heißt, eure Touren hängen daran, dass die Vortermine sitzen und kurzfristige Bauverzögerungen nicht die ganze Tagesplanung umwerfen."
+    "opener": "Ihr seid Meisterbetrieb in der dritten Generation und produziert den Estrich mit euren eigenen Express-Sattelzügen direkt auf der Baustelle, über ein Gebiet von rund 100 Kilometern. Das heißt, eure Touren hängen daran, dass die Vortermine sitzen und kurzfristige Bauverzögerungen nicht die ganze Tagesplanung umwerfen.",
+    "image": "/images/p/estrichbau-brosch.png"
   },
   "dombrowskiraumausstattung": {
     "slug": "dombrowskiraumausstattung",
@@ -27,7 +28,8 @@
       "Komplettsanierungen ziehen sich über viele Einzelschritte, jede Verschiebung verschiebt die folgenden Schritte mit",
       "Boden, Fliesen und Malerarbeiten parallel anzubieten heißt unterschiedliche Materialvorläufe und Lieferzeiten im Blick zu behalten"
     ],
-    "opener": "Du bietest in Mannheim alles aus einer Hand an, von Boden und Fliesen über Trockenbau bis zur Badsanierung, und koordinierst dabei sogar Elektro und Sanitär mit. Das heißt, bei jedem Auftrag hängt der Zeitplan daran, dass mehrere Gewerke sauber ineinandergreifen."
+    "opener": "Du bietest in Mannheim alles aus einer Hand an, von Boden und Fliesen über Trockenbau bis zur Badsanierung, und koordinierst dabei sogar Elektro und Sanitär mit. Das heißt, bei jedem Auftrag hängt der Zeitplan daran, dass mehrere Gewerke sauber ineinandergreifen.",
+    "image": "/images/p/dombrowskiraumausstattung.png"
   },
   "malermeister-estelmann": {
     "slug": "malermeister-estelmann",
@@ -42,7 +44,8 @@
       "Schmucktechniken und Farbgestaltung erfordern Detailabstimmung mit dem Kunden, das frisst Zeit vor jedem Auftrag",
       "Als Full-Service-Maler vom Trockenbau bis zur Treppenbeschichtung muss jeder Auftrag intern in der richtigen Reihenfolge geplant werden"
     ],
-    "opener": "Ihr seid seit 1977 Meisterbetrieb in Oggersheim und macht das volle Programm, von Farbgestaltung und Schmucktechniken bis Trockenbau und Treppenbeschichtung, innen und außen. Das heißt, gerade die wetterabhängigen Fassadentermine schieben euch ständig die Innentermine im Kalender hin und her."
+    "opener": "Ihr seid seit 1977 Meisterbetrieb in Oggersheim und macht das volle Programm, von Farbgestaltung und Schmucktechniken bis Trockenbau und Treppenbeschichtung, innen und außen. Das heißt, gerade die wetterabhängigen Fassadentermine schieben euch ständig die Innentermine im Kalender hin und her.",
+    "image": "/images/p/malermeister-estelmann.png"
   },
   "contura-bautraeger": {
     "slug": "contura-bautraeger",
@@ -54,7 +57,8 @@
       "Interessenten und Käufer melden sich laufend mit Fragen zu Grundrissen, Ausstattung und Terminen, das bindet Zeit",
       "Mehrere Bauvorhaben parallel heißt mehrere Termin- und Kommunikationsstränge gleichzeitig im Blick zu behalten"
     ],
-    "opener": "Als Bauträger in Mannheim jongliert ihr bei jedem Vorhaben viele Gewerke und gleichzeitig die Anfragen von Interessenten und Käufern. Da geht viel Zeit dafür drauf, alle Beteiligten auf demselben Stand zu halten."
+    "opener": "Als Bauträger in Mannheim jongliert ihr bei jedem Vorhaben viele Gewerke und gleichzeitig die Anfragen von Interessenten und Käufern. Da geht viel Zeit dafür drauf, alle Beteiligten auf demselben Stand zu halten.",
+    "image": "/images/p/contura-bautraeger.png"
   },
   "sauer-installationen": {
     "slug": "sauer-installationen",
@@ -69,7 +73,8 @@
       "Service und Reparatur bedeuten ständige kurzfristige Anfragen, die zwischen die geplanten Bauprojekte gequetscht werden müssen",
       "Als familiengeführter Betrieb landen Anrufe und Terminkoordination oft bei wenigen Leuten gleichzeitig"
     ],
-    "opener": "Ihr seid seit 1970 ein familiengeführter Meisterbetrieb in Heidelberg und macht inzwischen viel Wärmepumpen und Solar neben dem klassischen Sanitär und Heizung. Gerade die Reparatur- und Servicefälle kommen kurzfristig rein und müssen zwischen die geplanten Projekte passen."
+    "opener": "Ihr seid seit 1970 ein familiengeführter Meisterbetrieb in Heidelberg und macht inzwischen viel Wärmepumpen und Solar neben dem klassischen Sanitär und Heizung. Gerade die Reparatur- und Servicefälle kommen kurzfristig rein und müssen zwischen die geplanten Projekte passen.",
+    "image": "/images/p/sauer-installationen.png"
   },
   "flach-holzbau": {
     "slug": "flach-holzbau",
@@ -81,7 +86,8 @@
       "Dachstuhl- und Holzbauarbeiten sind stark wetter- und terminabhängig, was die Tagesplanung immer wieder verschiebt",
       "Anfragen kommen über Telefon rein und müssen zwischen die laufenden Baustellen eingetaktet werden"
     ],
-    "opener": "Im Holzbau in Sinsheim hängt vieles an Vor-Ort-Terminen und am Wetter, und jede Anfrage muss zwischen die laufenden Baustellen eingetaktet werden. Da geht schnell Zeit für Telefon und Terminkoordination drauf, die woanders fehlt."
+    "opener": "Im Holzbau in Sinsheim hängt vieles an Vor-Ort-Terminen und am Wetter, und jede Anfrage muss zwischen die laufenden Baustellen eingetaktet werden. Da geht schnell Zeit für Telefon und Terminkoordination drauf, die woanders fehlt.",
+    "image": "/images/p/flach-holzbau.png"
   },
   "hoffmann-elektro": {
     "slug": "hoffmann-elektro",
@@ -96,7 +102,8 @@
       "E-Check und Sicherheitstechnik bedeuten viele wiederkehrende Termine, die sauber koordiniert werden müssen",
       "Anfragen aus mehreren Bereichen (Installation, Kommunikation, Energie) laufen parallel ein und müssen priorisiert werden"
     ],
-    "opener": "Ihr macht in Heidelberg von Installationstechnik über Smart Home bis regenerative Energie alles und seid E-Check-zertifiziert und in der Elektro-Innung. Gerade die PV- und Smart-Home-Anfragen brauchen viel Beratung vorab, bevor überhaupt der Auftrag steht."
+    "opener": "Ihr macht in Heidelberg von Installationstechnik über Smart Home bis regenerative Energie alles und seid E-Check-zertifiziert und in der Elektro-Innung. Gerade die PV- und Smart-Home-Anfragen brauchen viel Beratung vorab, bevor überhaupt der Auftrag steht.",
+    "image": "/images/p/hoffmann-elektro.png"
   },
   "ak-estriche": {
     "slug": "ak-estriche",
@@ -111,7 +118,8 @@
       "Estrich plus anschließender Bodenbelag aus einer Hand bedeutet enge Terminkette: verzögert sich der Estrich, verschiebt sich der Belag mit",
       "Neubau- und Sanierungsaufträge parallel erfordern für jede Baustelle ein eigenes Aufmaß und Beratung"
     ],
-    "opener": "Ihr seid seit 1997 in Heppenheim und macht Fließ-, Zement-, Anhydrit- und Trockenestrich plus die Bodenbeläge dazu, aus einer Hand. Das heißt, bei jedem Auftrag hängt die Terminkette daran, dass der Estrich rechtzeitig trocken ist, bevor der Belag drauf kann."
+    "opener": "Ihr seid seit 1997 in Heppenheim und macht Fließ-, Zement-, Anhydrit- und Trockenestrich plus die Bodenbeläge dazu, aus einer Hand. Das heißt, bei jedem Auftrag hängt die Terminkette daran, dass der Estrich rechtzeitig trocken ist, bevor der Belag drauf kann.",
+    "image": "/images/p/ak-estriche.png"
   },
   "mandelraumausstattung": {
     "slug": "mandelraumausstattung",
@@ -126,7 +134,8 @@
       "Sonnenschutz und Gardinen sind Maßanfertigungen, jede Bestellung braucht ein eigenes Aufmaß und exakte Abstimmung",
       "Beratung und Bauleitung mitanzubieten heißt viel Zeit am Telefon und beim Kunden, bevor der Auftrag startet"
     ],
-    "opener": "Ihr macht in Mannheim seit 1987 alles vom Bodenbelag über Polsterei bis zum maßgefertigten Sonnenschutz, inklusive Beratung und Bauleitung. Gerade die Maßanfertigungen brauchen pro Auftrag ein eigenes Aufmaß und enge Abstimmung, das frisst Zeit."
+    "opener": "Ihr macht in Mannheim seit 1987 alles vom Bodenbelag über Polsterei bis zum maßgefertigten Sonnenschutz, inklusive Beratung und Bauleitung. Gerade die Maßanfertigungen brauchen pro Auftrag ein eigenes Aufmaß und enge Abstimmung, das frisst Zeit.",
+    "image": "/images/p/mandelraumausstattung.png"
   },
   "malerbetrieb-jakoby": {
     "slug": "malerbetrieb-jakoby",
@@ -141,7 +150,8 @@
       "Dekorative Wandgestaltung erfordert ausführliche Abstimmung mit dem Kunden, das bindet Zeit vor dem Auftrag",
       "Maler, Tapezieren und Bodenbeläge in einem Auftrag müssen intern in der richtigen Reihenfolge geplant werden"
     ],
-    "opener": "Du bist Meisterbetrieb in Ludwigshafen und machst neben Maler- und Tapezierarbeiten viel dekorative Wandgestaltung und Fassadenanstriche. Die wetterabhängigen Fassadenarbeiten schieben dir dabei laufend die Innentermine durcheinander."
+    "opener": "Du bist Meisterbetrieb in Ludwigshafen und machst neben Maler- und Tapezierarbeiten viel dekorative Wandgestaltung und Fassadenanstriche. Die wetterabhängigen Fassadenarbeiten schieben dir dabei laufend die Innentermine durcheinander.",
+    "image": "/images/p/malerbetrieb-jakoby.png"
   },
   "aktiva-mannheim": {
     "slug": "aktiva-mannheim",
@@ -156,7 +166,8 @@
       "Kauf- und Mietinteressenten melden sich laufend mit Fragen zu Objekten, das bindet viel Zeit",
       "Mehrere Bauvorhaben in Bestlagen gleichzeitig heißt mehrere Gewerke- und Terminstränge gleichzeitig zu steuern"
     ],
-    "opener": "Aktiva ist seit 1986 in Familienhand und deckt in Mannheim und Heidelberg die ganze Kette ab, vom Ankauf über den Bau bis zu Verwaltung und Verkauf. Bei der Bandbreite laufen Interessentenanfragen und Termine aus allen Bereichen gleichzeitig rein."
+    "opener": "Aktiva ist seit 1986 in Familienhand und deckt in Mannheim und Heidelberg die ganze Kette ab, vom Ankauf über den Bau bis zu Verwaltung und Verkauf. Bei der Bandbreite laufen Interessentenanfragen und Termine aus allen Bereichen gleichzeitig rein.",
+    "image": "/images/p/aktiva-mannheim.png"
   },
   "hertel-heidelberg": {
     "slug": "hertel-heidelberg",
@@ -171,7 +182,8 @@
       "Wartung, Service und G-607-Prüfungen bedeuten viele wiederkehrende Termine, die koordiniert werden müssen",
       "Vom Bad über Heizung bis Elektro und Smart Home alles anzubieten heißt unterschiedliche Anfragen parallel zu steuern"
     ],
-    "opener": "Als Meisterfachbetrieb in Heidelberg deckt ihr vom Bad über die Heizungsmodernisierung bis zu barrierefreien Bädern und Smart Home alles ab. Gerade Bad- und Heizungsprojekte brauchen viel Beratung vorab, bevor der Auftrag überhaupt losgeht."
+    "opener": "Als Meisterfachbetrieb in Heidelberg deckt ihr vom Bad über die Heizungsmodernisierung bis zu barrierefreien Bädern und Smart Home alles ab. Gerade Bad- und Heizungsprojekte brauchen viel Beratung vorab, bevor der Auftrag überhaupt losgeht.",
+    "image": "/images/p/hertel-heidelberg.png"
   },
   "riegerholzbau": {
     "slug": "riegerholzbau",
@@ -186,7 +198,8 @@
       "Fachwerksanierungen brauchen ein genaues Vor-Ort-Aufmaß je Objekt, das bindet Zeit vor dem Angebot",
       "Anfragen aus vielen Bereichen, von Carport bis PV-Montage, laufen parallel ein und müssen eingetaktet werden"
     ],
-    "opener": "Du machst in Heidelberg von Dachkonstruktionen und Fachwerksanierungen über Carports und Terrassen bis zur PV-Montage alles. Gerade die wetterabhängigen Dacharbeiten und die Aufmaße bei Fachwerksanierungen kosten viel Zeit in der Terminplanung."
+    "opener": "Du machst in Heidelberg von Dachkonstruktionen und Fachwerksanierungen über Carports und Terrassen bis zur PV-Montage alles. Gerade die wetterabhängigen Dacharbeiten und die Aufmaße bei Fachwerksanierungen kosten viel Zeit in der Terminplanung.",
+    "image": "/images/p/riegerholzbau.png"
   },
   "elektrotechnik-hutzl": {
     "slug": "elektrotechnik-hutzl",
@@ -201,7 +214,8 @@
       "Anfragen für E-Auto-Ladestationen und Wärmepumpen kommen oft abends nach Feierabend rein und versanden, wenn niemand schnell antwortet",
       "Als Ein-Meister-Betrieb bleibt nach einem Tag auf der Baustelle kaum Zeit, Angebote zu schreiben und der Website-Anfrage hinterherzutelefonieren"
     ],
-    "opener": "Christian, eure Kombi aus klassischer Elektroinstallation und Zukunftsthemen wie KNX-Smarthome, Wärmepumpen und E-Auto-Ladestationen passt genau zu den Kunden, die heute zuerst online suchen. Genau da setzen wir an, damit aus diesen Anfragen rund um Weinheim auch zuverlässig Aufträge werden."
+    "opener": "Christian, eure Kombi aus klassischer Elektroinstallation und Zukunftsthemen wie KNX-Smarthome, Wärmepumpen und E-Auto-Ladestationen passt genau zu den Kunden, die heute zuerst online suchen. Genau da setzen wir an, damit aus diesen Anfragen rund um Weinheim auch zuverlässig Aufträge werden.",
+    "image": "/images/p/elektrotechnik-hutzl.png"
   },
   "yildiz-estrich": {
     "slug": "yildiz-estrich",

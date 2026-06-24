@@ -12,6 +12,7 @@ export interface Prospect {
   facts: string[];
   painpoints: string[];
   opener: string;
+  image?: string; // optional hero image path, e.g. /images/p/<slug>.png
 }
 
 const PROSPECTS = rawData as unknown as Record<string, Prospect>;
