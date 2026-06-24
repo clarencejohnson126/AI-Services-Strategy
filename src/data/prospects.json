@@ -1,0 +1,1332 @@
+{
+  "estrichbau-brosch": {
+    "slug": "estrichbau-brosch",
+    "company": "Karlheinz Brosch GmbH",
+    "gewerk": "trockenbau",
+    "facts": [
+      "Meisterbetrieb in der 3. Generation, seit über 60 Jahren am Markt",
+      "Produziert den Estrich mit eigenen Sattelzügen (Estrich-Express) direkt vor Ort per computergesteuerter Mörtelmischtechnik, im Einzugsgebiet rund 100 km um Biedesheim"
+    ],
+    "painpoints": [
+      "Disposition der Estrich-Express-Sattelzüge über ein 100-km-Gebiet: enge Zeitfenster, kurzfristige Bauverzögerungen am Vortag verschieben die ganze Tagestour",
+      "Bei klassischem Estrich und BroPlan-Designböden im selben Auftrag wechseln Aufbau und Trocknungszeiten, was die Folgegewerke koordinieren muss",
+      "Alt- und Neubausanierung gleichzeitig: Bestandsaufmaß und Feuchtemessung pro Baustelle binden viel Zeit am Telefon"
+    ],
+    "opener": "Ihr seid Meisterbetrieb in der dritten Generation und produziert den Estrich mit euren eigenen Express-Sattelzügen direkt auf der Baustelle, über ein Gebiet von rund 100 Kilometern. Das heißt, eure Touren hängen daran, dass die Vortermine sitzen und kurzfristige Bauverzögerungen nicht die ganze Tagesplanung umwerfen."
+  },
+  "dombrowskiraumausstattung": {
+    "slug": "dombrowskiraumausstattung",
+    "company": "Dombrowski Raumausstattung GmbH",
+    "gewerk": "boden",
+    "facts": [
+      "Inhaber André Dombrowski, Sitz in der Hausacher Straße 9 in Mannheim",
+      "Bietet alles aus einer Hand: Boden, Malerarbeiten, Tapezieren, Trockenbau, Fliesen und Badsanierung, inklusive Koordination der Elektro- und Sanitärinstallation"
+    ],
+    "painpoints": [
+      "Alles aus einer Hand bedeutet, bei jedem Auftrag mehrere Gewerke und Fremdfirmen (Elektro, Sanitär) terminlich aufeinander abzustimmen",
+      "Komplettsanierungen ziehen sich über viele Einzelschritte, jede Verschiebung verschiebt die folgenden Schritte mit",
+      "Boden, Fliesen und Malerarbeiten parallel anzubieten heißt unterschiedliche Materialvorläufe und Lieferzeiten im Blick zu behalten"
+    ],
+    "opener": "Du bietest in Mannheim alles aus einer Hand an, von Boden und Fliesen über Trockenbau bis zur Badsanierung, und koordinierst dabei sogar Elektro und Sanitär mit. Das heißt, bei jedem Auftrag hängt der Zeitplan daran, dass mehrere Gewerke sauber ineinandergreifen."
+  },
+  "malermeister-estelmann": {
+    "slug": "malermeister-estelmann",
+    "company": "Malergeschäft Christian Estelmann",
+    "gewerk": "maler",
+    "facts": [
+      "Meisterbetrieb von Christian Estelmann, seit 1977 am Markt, Sitz in Ludwigshafen-Oggersheim",
+      "Bietet neben klassischen Maler- und Lackierarbeiten auch Farbgestaltungen, Schmucktechniken, Treppenbeschichtung und Trockenbau, innen wie außen"
+    ],
+    "painpoints": [
+      "Innen- und Außenarbeiten gleichzeitig: Fassadentermine hängen am Wetter, was die Innentermine im Kalender hin und her schiebt",
+      "Schmucktechniken und Farbgestaltung erfordern Detailabstimmung mit dem Kunden, das frisst Zeit vor jedem Auftrag",
+      "Als Full-Service-Maler vom Trockenbau bis zur Treppenbeschichtung muss jeder Auftrag intern in der richtigen Reihenfolge geplant werden"
+    ],
+    "opener": "Ihr seid seit 1977 Meisterbetrieb in Oggersheim und macht das volle Programm, von Farbgestaltung und Schmucktechniken bis Trockenbau und Treppenbeschichtung, innen und außen. Das heißt, gerade die wetterabhängigen Fassadentermine schieben euch ständig die Innentermine im Kalender hin und her."
+  },
+  "contura-bautraeger": {
+    "slug": "contura-bautraeger",
+    "company": "contura Bauträger GmbH & Co. KG",
+    "gewerk": "bautraeger",
+    "facts": [],
+    "painpoints": [
+      "Als Bauträger koordiniert ihr viele Einzelgewerke pro Bauvorhaben, jede Verschiebung eines Gewerks zieht den ganzen Bauzeitenplan mit",
+      "Interessenten und Käufer melden sich laufend mit Fragen zu Grundrissen, Ausstattung und Terminen, das bindet Zeit",
+      "Mehrere Bauvorhaben parallel heißt mehrere Termin- und Kommunikationsstränge gleichzeitig im Blick zu behalten"
+    ],
+    "opener": "Als Bauträger in Mannheim jongliert ihr bei jedem Vorhaben viele Gewerke und gleichzeitig die Anfragen von Interessenten und Käufern. Da geht viel Zeit dafür drauf, alle Beteiligten auf demselben Stand zu halten."
+  },
+  "sauer-installationen": {
+    "slug": "sauer-installationen",
+    "company": "G. Sauer Sanitär- und Heizungstechnik GmbH",
+    "gewerk": "shk",
+    "facts": [
+      "Familiengeführter Meisterbetrieb seit 1970, Geschäftsführer Achim Vogel, Sitz in Heidelberg",
+      "Neben Sanitär und Heizung auch Neuinstallation von Wärmepumpen und Solaranlagen sowie Service und Reparatur"
+    ],
+    "painpoints": [
+      "Wärmepumpen- und Solar-Neuinstallationen erfordern lange Beratungs- und Planungsgespräche pro Kunde, das bindet viel Zeit vorab",
+      "Service und Reparatur bedeuten ständige kurzfristige Anfragen, die zwischen die geplanten Bauprojekte gequetscht werden müssen",
+      "Als familiengeführter Betrieb landen Anrufe und Terminkoordination oft bei wenigen Leuten gleichzeitig"
+    ],
+    "opener": "Ihr seid seit 1970 ein familiengeführter Meisterbetrieb in Heidelberg und macht inzwischen viel Wärmepumpen und Solar neben dem klassischen Sanitär und Heizung. Gerade die Reparatur- und Servicefälle kommen kurzfristig rein und müssen zwischen die geplanten Projekte passen."
+  },
+  "flach-holzbau": {
+    "slug": "flach-holzbau",
+    "company": "Holzbau W. Flach",
+    "gewerk": "rohbau",
+    "facts": [],
+    "painpoints": [
+      "Im Holzbau hängen Aufmaß und Angebot oft an einem Vor-Ort-Termin, jeder Anruf bedeutet Koordinationsaufwand",
+      "Dachstuhl- und Holzbauarbeiten sind stark wetter- und terminabhängig, was die Tagesplanung immer wieder verschiebt",
+      "Anfragen kommen über Telefon rein und müssen zwischen die laufenden Baustellen eingetaktet werden"
+    ],
+    "opener": "Im Holzbau in Sinsheim hängt vieles an Vor-Ort-Terminen und am Wetter, und jede Anfrage muss zwischen die laufenden Baustellen eingetaktet werden. Da geht schnell Zeit für Telefon und Terminkoordination drauf, die woanders fehlt."
+  },
+  "hoffmann-elektro": {
+    "slug": "hoffmann-elektro",
+    "company": "Hoffmann Elektrotechnik",
+    "gewerk": "elektro",
+    "facts": [
+      "Mitglied der Elektro-Innung Heidelberg und E-Check-zertifiziert",
+      "Bietet Installationstechnik, Kommunikationstechnik, Smart Home, regenerative Energie, Sicherheits- und Lichttechnik"
+    ],
+    "painpoints": [
+      "Photovoltaik und Smart-Home-Projekte brauchen ausführliche Beratung und Planung pro Kunde, das frisst Zeit vor dem eigentlichen Auftrag",
+      "E-Check und Sicherheitstechnik bedeuten viele wiederkehrende Termine, die sauber koordiniert werden müssen",
+      "Anfragen aus mehreren Bereichen (Installation, Kommunikation, Energie) laufen parallel ein und müssen priorisiert werden"
+    ],
+    "opener": "Ihr macht in Heidelberg von Installationstechnik über Smart Home bis regenerative Energie alles und seid E-Check-zertifiziert und in der Elektro-Innung. Gerade die PV- und Smart-Home-Anfragen brauchen viel Beratung vorab, bevor überhaupt der Auftrag steht."
+  },
+  "ak-estriche": {
+    "slug": "ak-estriche",
+    "company": "AK Estriche & Bodenbeläge GmbH",
+    "gewerk": "trockenbau",
+    "facts": [
+      "Seit 1997 am Markt, Sitz in der Udalrichstraße 3 in Heppenheim",
+      "Verlegt Fließestrich, Zementestrich, Anhydritestrich und Trockenestrich plus Dämmungen und Bodenbeläge, bei Neubau, Renovierung und Sanierung"
+    ],
+    "painpoints": [
+      "Vier verschiedene Estrich-Arten plus Bodenbeläge heißt unterschiedliche Trocknungszeiten und Materialvorläufe pro Auftrag im Blick zu behalten",
+      "Estrich plus anschließender Bodenbelag aus einer Hand bedeutet enge Terminkette: verzögert sich der Estrich, verschiebt sich der Belag mit",
+      "Neubau- und Sanierungsaufträge parallel erfordern für jede Baustelle ein eigenes Aufmaß und Beratung"
+    ],
+    "opener": "Ihr seid seit 1997 in Heppenheim und macht Fließ-, Zement-, Anhydrit- und Trockenestrich plus die Bodenbeläge dazu, aus einer Hand. Das heißt, bei jedem Auftrag hängt die Terminkette daran, dass der Estrich rechtzeitig trocken ist, bevor der Belag drauf kann."
+  },
+  "mandelraumausstattung": {
+    "slug": "mandelraumausstattung",
+    "company": "Mandel Raumausstattung",
+    "gewerk": "boden",
+    "facts": [
+      "Handwerk seit 1987, Sitz in Mannheim",
+      "Bietet Bodenbeläge (Parkett, Vinyl, PVC, Kautschuk, Teppich), Malerarbeiten, Polsterarbeiten, Sicht- und Sonnenschutz (Gardinen, Plissees, Rollos, Lamellen) plus Trockenbau und Bauleitung"
+    ],
+    "painpoints": [
+      "Sehr breites Leistungsspektrum von Boden über Polsterei bis Sonnenschutz: viele unterschiedliche Materialien und Lieferanten je Auftrag",
+      "Sonnenschutz und Gardinen sind Maßanfertigungen, jede Bestellung braucht ein eigenes Aufmaß und exakte Abstimmung",
+      "Beratung und Bauleitung mitanzubieten heißt viel Zeit am Telefon und beim Kunden, bevor der Auftrag startet"
+    ],
+    "opener": "Ihr macht in Mannheim seit 1987 alles vom Bodenbelag über Polsterei bis zum maßgefertigten Sonnenschutz, inklusive Beratung und Bauleitung. Gerade die Maßanfertigungen brauchen pro Auftrag ein eigenes Aufmaß und enge Abstimmung, das frisst Zeit."
+  },
+  "malerbetrieb-jakoby": {
+    "slug": "malerbetrieb-jakoby",
+    "company": "Ralf Jakoby Malerbetrieb",
+    "gewerk": "maler",
+    "facts": [
+      "Meisterbetrieb von Ralf Jakoby in Ludwigshafen, BG-Bau- und qih-zertifiziert",
+      "Bietet Maler- und Tapezierarbeiten, dekorative Wandgestaltung, Bodenbeläge und Fassadenanstriche"
+    ],
+    "painpoints": [
+      "Fassadenanstriche hängen am Wetter und verschieben die geplanten Innentermine immer wieder",
+      "Dekorative Wandgestaltung erfordert ausführliche Abstimmung mit dem Kunden, das bindet Zeit vor dem Auftrag",
+      "Maler, Tapezieren und Bodenbeläge in einem Auftrag müssen intern in der richtigen Reihenfolge geplant werden"
+    ],
+    "opener": "Du bist Meisterbetrieb in Ludwigshafen und machst neben Maler- und Tapezierarbeiten viel dekorative Wandgestaltung und Fassadenanstriche. Die wetterabhängigen Fassadenarbeiten schieben dir dabei laufend die Innentermine durcheinander."
+  },
+  "aktiva-mannheim": {
+    "slug": "aktiva-mannheim",
+    "company": "Aktiva Bauträger GmbH",
+    "gewerk": "bautraeger",
+    "facts": [
+      "1986 von Albert Reiser gegründet, seit 2014 ist Sohn Axel Reiser in der Geschäftsführung",
+      "Kauft, baut, verwaltet, vermietet und verkauft hochwertige Häuser und Wohnungen in Bestlagen im Raum Mannheim und Heidelberg"
+    ],
+    "painpoints": [
+      "Vom Ankauf über den Bau bis zu Verwaltung und Verkauf laufen viele Prozesse parallel, alle erzeugen Termine und Rückfragen",
+      "Kauf- und Mietinteressenten melden sich laufend mit Fragen zu Objekten, das bindet viel Zeit",
+      "Mehrere Bauvorhaben in Bestlagen gleichzeitig heißt mehrere Gewerke- und Terminstränge gleichzeitig zu steuern"
+    ],
+    "opener": "Aktiva ist seit 1986 in Familienhand und deckt in Mannheim und Heidelberg die ganze Kette ab, vom Ankauf über den Bau bis zu Verwaltung und Verkauf. Bei der Bandbreite laufen Interessentenanfragen und Termine aus allen Bereichen gleichzeitig rein."
+  },
+  "hertel-heidelberg": {
+    "slug": "hertel-heidelberg",
+    "company": "Alexander Hertel",
+    "gewerk": "shk",
+    "facts": [
+      "Meisterfachbetrieb in Heidelberg, laut Website seit 1961 im Bereich Heizung tätig",
+      "Bietet Heizungsmodernisierung, Bad- und Badmodernisierung, barrierefreie Bäder, Haustechnik, Elektroinstallation, Wohnraumlüftung und intelligente Gebäudesteuerung"
+    ],
+    "painpoints": [
+      "Heizungsmodernisierung und barrierefreie Bäder brauchen ausführliche Planung und Beratung pro Kunde, das frisst Zeit vorab",
+      "Wartung, Service und G-607-Prüfungen bedeuten viele wiederkehrende Termine, die koordiniert werden müssen",
+      "Vom Bad über Heizung bis Elektro und Smart Home alles anzubieten heißt unterschiedliche Anfragen parallel zu steuern"
+    ],
+    "opener": "Als Meisterfachbetrieb in Heidelberg deckt ihr vom Bad über die Heizungsmodernisierung bis zu barrierefreien Bädern und Smart Home alles ab. Gerade Bad- und Heizungsprojekte brauchen viel Beratung vorab, bevor der Auftrag überhaupt losgeht."
+  },
+  "riegerholzbau": {
+    "slug": "riegerholzbau",
+    "company": "Rieger Holzbau",
+    "gewerk": "rohbau",
+    "facts": [
+      "Inhaber Julius Rieger, Sitz Im Schuhmachergewann 1 in Heidelberg",
+      "Macht Dachkonstruktionen, Fachwerksanierungen, Balkone, Terrassen, Carports, Fassaden und Anbauten, dazu Photovoltaik-Montage und Dachflächenfenster"
+    ],
+    "painpoints": [
+      "Dachkonstruktionen und Anbauten sind stark wetterabhängig, das verschiebt die Tagesplanung immer wieder",
+      "Fachwerksanierungen brauchen ein genaues Vor-Ort-Aufmaß je Objekt, das bindet Zeit vor dem Angebot",
+      "Anfragen aus vielen Bereichen, von Carport bis PV-Montage, laufen parallel ein und müssen eingetaktet werden"
+    ],
+    "opener": "Du machst in Heidelberg von Dachkonstruktionen und Fachwerksanierungen über Carports und Terrassen bis zur PV-Montage alles. Gerade die wetterabhängigen Dacharbeiten und die Aufmaße bei Fachwerksanierungen kosten viel Zeit in der Terminplanung."
+  },
+  "elektrotechnik-hutzl": {
+    "slug": "elektrotechnik-hutzl",
+    "company": "Elektrotechnik Hutzl",
+    "gewerk": "elektro",
+    "facts": [
+      "HWK-eingetragener Meisterbetrieb in Weinheim-Lützelsachsen, Inhaber Christian Hutzl",
+      "Bietet neben klassischer Elektroinstallation auch KNX-Smarthome, Wärmepumpen-Anbindung und Montage von E-Auto-Ladestationen an"
+    ],
+    "painpoints": [
+      "Hochwertige Spezialthemen wie KNX und Ladestationen ziehen genau die Kunden an, die zuerst googeln, aber wer dann nicht oben in der Region steht, wird gar nicht erst angefragt",
+      "Anfragen für E-Auto-Ladestationen und Wärmepumpen kommen oft abends nach Feierabend rein und versanden, wenn niemand schnell antwortet",
+      "Als Ein-Meister-Betrieb bleibt nach einem Tag auf der Baustelle kaum Zeit, Angebote zu schreiben und der Website-Anfrage hinterherzutelefonieren"
+    ],
+    "opener": "Christian, eure Kombi aus klassischer Elektroinstallation und Zukunftsthemen wie KNX-Smarthome, Wärmepumpen und E-Auto-Ladestationen passt genau zu den Kunden, die heute zuerst online suchen. Genau da setzen wir an, damit aus diesen Anfragen rund um Weinheim auch zuverlässig Aufträge werden."
+  },
+  "yildiz-estrich": {
+    "slug": "yildiz-estrich",
+    "company": "Yildiz Estrich",
+    "gewerk": "trockenbau",
+    "facts": [
+      "Seit 25 Jahren am Markt in Mannheim, mit Estrich als erklaerter Kernkompetenz",
+      "Bietet zusaetzlich eine kostenlose Beratung zur Optimierung des Verkaufswerts von Immobilien an und arbeitet bewusst ohne Angebot per Leistungsverzeichnis"
+    ],
+    "painpoints": [
+      "25 Jahre Erfahrung und ein fairer Festpreis-Ansatz sind ein starkes Argument, gehen aber unter, wenn potenzielle Kunden die Firma online gar nicht finden",
+      "Estrich-Anfragen kommen oft kurzfristig von Bauleitern, die sofort eine Antwort brauchen, sonst geht der Auftrag an den Nachbarbetrieb",
+      "Die Beratung zur Verkaufswert-Optimierung ist ein echtes Alleinstellungsmerkmal, wird aber auf der Website kaum als eigener Anlass zum Anrufen herausgestellt"
+    ],
+    "opener": "25 Jahre Estrich in Mannheim und ein klarer Festpreis-Ansatz statt Zettel-Leistungsverzeichnis, das ist genau das, was Bauherren suchen. Wir sorgen dafuer, dass diese Erfahrung auch bei den Leuten ankommt, die gerade online nach einem zuverlaessigen Estrichbetrieb suchen."
+  },
+  "yilmaz-estrichbau": {
+    "slug": "yilmaz-estrichbau",
+    "company": "Yilmaz Estrichbau",
+    "gewerk": "boden",
+    "facts": [
+      "Ueber 20 Jahre Erfahrung, ueber 3500 abgeschlossene Projekte und ueber 50000 qm Estrich pro Jahr in Mannheim und Umgebung",
+      "Fachbetrieb fuer Zementestriche aller Art (Anhydrit, Fliess, Industrie, Schnell, Zement) inklusive Estrichdaemmung und Fussbodenheizung"
+    ],
+    "painpoints": [
+      "Bei 50000 qm Estrich im Jahr haengt viel am Nachschub an Anfragen, und genau die brechen weg, wenn die Online-Sichtbarkeit schwaechelt",
+      "Die starken Zahlen und das breite Estrich-Spektrum sind das beste Verkaufsargument, kommen bei einer kalten Anfrage aber nur an, wenn sie schnell und klar praesentiert werden",
+      "Industrie- und Gewerbekunden vergleichen mehrere Betriebe, und wer dort nicht schnell mit einem belastbaren Angebot reagiert, verliert den Auftrag"
+    ],
+    "opener": "Ueber 3500 Projekte und 50000 qm Estrich im Jahr, das ist eine Hausnummer, die fuer sich spricht. Wir helfen euch, genau diese Schlagkraft so online zu zeigen, dass die naechste Gewerbe- oder Industrie-Anfrage in Mannheim bei euch landet und nicht beim Wettbewerb."
+  },
+  "leon-malermeister": {
+    "slug": "leon-malermeister",
+    "company": "Leon Malermeister",
+    "gewerk": "maler",
+    "facts": [],
+    "painpoints": [
+      "Wenn die Website kaum Inhalte ausspielt, finden potenzielle Kunden in Gruenstadt und Umgebung den Malerbetrieb online schlecht und springen zur Konkurrenz ab",
+      "Anfragen von privaten Bauherren kommen oft abends oder am Wochenende, und ohne schnelle Reaktion gehen sie verloren",
+      "Als Malermeister steckt die Zeit auf der Baustelle, da bleibt fuer Website-Pflege und das Nachfassen von Anfragen kaum Luft"
+    ],
+    "opener": "Als Malermeister in Gruenstadt lebt ihr von zuverlaessiger Arbeit und Empfehlungen, doch die meisten neuen Kunden suchen heute zuerst online. Genau da setzen wir an, damit aus einer Suche nach einem Maler in eurer Region auch wirklich eine Anfrage bei euch wird."
+  },
+  "bmbwohnbau": {
+    "slug": "bmbwohnbau",
+    "company": "BMB GmbH Bauträger u. Projektentwicklung",
+    "gewerk": "bautraeger",
+    "facts": [
+      "Spezialisiert auf hochwertige, familienfreundliche Eigentumswohnungen in Mehrfamilienhaeusern in guten Lagen",
+      "Aktiv in Mannheim und Kirchheim an der Weinstrasse, inklusive Projektentwicklung und individueller Kundenberatung"
+    ],
+    "painpoints": [
+      "Hochwertige Eigentumswohnungen leben von Kaeufern, die aktiv suchen, und genau die finden das Angebot nur, wenn die Projekte online gut sichtbar sind",
+      "Kaufinteressenten erwarten schnelle Rueckmeldung auf eine Anfrage, sonst wandern sie zum naechsten Bautraeger",
+      "Die familienfreundliche Positionierung ist ein gutes Argument, kommt aber nur an, wenn sie zielgerichtet bei der passenden Zielgruppe ausgespielt wird"
+    ],
+    "opener": "Euer Fokus auf hochwertige, familienfreundliche Eigentumswohnungen in guten Lagen rund um Mannheim und Kirchheim trifft genau einen Kaeufertyp, der online sehr gezielt sucht. Wir sorgen dafuer, dass diese Kaeufer eure Projekte finden und auch wirklich anfragen."
+  },
+  "ehrenfried-shk": {
+    "slug": "ehrenfried-shk",
+    "company": "Ehrenfried SHK",
+    "gewerk": "shk",
+    "facts": [
+      "Meisterbetrieb fuer Heizung und Sanitaer in Weinheim-Sulzbach, gefuehrt von Vater und Sohn Gerhard und Thomas Ehrenfried",
+      "Arbeitet mit etablierten Herstellern wie Viessmann zusammen (auf der Seite als Partner gefuehrt)"
+    ],
+    "painpoints": [
+      "Dass hier Vater und Sohn gemeinsam fuehren, ist ein starkes Vertrauenssignal, kommt aber bei jemandem, der nur kurz googelt, gar nicht an",
+      "Heizungs- und Sanitaer-Anfragen sind oft dringend, und wer da nicht sofort gefunden wird oder schnell antwortet, verliert den Kunden an den naechsten Betrieb",
+      "Auf der Startseite stehen kaum konkrete Leistungen, sodass Suchende den Umfang des Angebots erst nach Klicks erkennen"
+    ],
+    "opener": "Gerhard und Thomas, dass ihr den Meisterbetrieb in Weinheim als Vater und Sohn fuehrt, ist genau das Vertrauen, das Kunden bei Heizung und Sanitaer suchen. Wir helfen euch, diese Staerke so online zu zeigen, dass die naechste dringende Anfrage in eurer Region direkt bei euch landet."
+  },
+  "holzbau-koppert": {
+    "slug": "holzbau-koppert",
+    "company": "Holzbau Koppert GmbH & Co. KG",
+    "gewerk": "rohbau",
+    "facts": [
+      "Holzbauer mit Tradition, gegruendet 1960, in Walldorf",
+      "Als 4-Sterne-Meisterbetrieb vom Verband des Zimmerer- und Holzbaugewerbes Baden-Wuerttemberg ausgezeichnet, mit Fokus auf energetische Dachsanierung und Holzbau"
+    ],
+    "painpoints": [
+      "Tradition seit 1960 und die 4-Sterne-Auszeichnung sind ein erstklassiges Verkaufsargument, gehen aber unter, wenn Bauherren den Betrieb online nicht prominent finden",
+      "Energetische Dachsanierungen sind aktuell stark nachgefragt, und genau diese Foerder-getriebenen Anfragen muessen schnell beantwortet werden, sonst springen die Kunden ab",
+      "Hochwertige Holzbau-Projekte werden von Bauherren ausgiebig verglichen, und wer da nicht sichtbar und schnell erreichbar ist, kommt gar nicht erst in die engere Wahl"
+    ],
+    "opener": "Seit 1960 im Holzbau und als 4-Sterne-Meisterbetrieb ausgezeichnet, das ist Vertrauen, das man nicht kaufen kann. Gerade bei gefragten Themen wie der energetischen Dachsanierung sorgen wir dafuer, dass Bauherren rund um Walldorf genau diese Staerke sehen und bei euch anfragen."
+  },
+  "elektrokilian": {
+    "slug": "elektrokilian",
+    "company": "Elektro Kilian",
+    "gewerk": "elektro",
+    "facts": [
+      "Als KNX-Partner und Miele-Spezialist in Weinheim positioniert, mit eigenem Ladengeschaeft und festen Oeffnungszeiten",
+      "Bietet Elektrotechnik, Hausgeraete, Netzwerktechnik und Kundendienst aus einer Hand"
+    ],
+    "painpoints": [
+      "Die Spezial-Positionierung als KNX-Partner und Miele-Spezialist zieht genau die hochwertigen Kunden an, die zuerst googeln, doch ohne gute Online-Sichtbarkeit finden sie den Betrieb nicht",
+      "Anfragen zu Smarthome und Netzwerktechnik kommen oft online rein und versanden, wenn niemand schnell reagiert",
+      "Mit Ladengeschaeft und Kundendienst zugleich bleibt im Tagesgeschaeft kaum Zeit, Website-Anfragen konsequent nachzufassen"
+    ],
+    "opener": "Als KNX-Partner und Miele-Spezialist in Weinheim sprecht ihr genau die Kunden an, die Qualitaet suchen und dafuer online recherchieren. Wir sorgen dafuer, dass diese Kunden euch finden und aus der Suche eine konkrete Anfrage in eurem Geschaeft wird."
+  },
+  "stegmueller-estrich": {
+    "slug": "stegmueller-estrich",
+    "company": "Stegmüller Estrich GmbH",
+    "gewerk": "trockenbau",
+    "facts": [
+      "Estrich-Meisterbetrieb in dritter Generation in St. Leon-Rot",
+      "Estricharbeiten in der gesamten Region (Mannheim, Heidelberg, Karlsruhe, Speyer und mehr), Bodenbeschichtungen sogar bundesweit, inklusive Design-Belaegen wie Steinteppich und Metallic-Harz"
+    ],
+    "painpoints": [
+      "Drei Generationen Meisterbetrieb sind ein starkes Vertrauenssignal, das bei einer reinen Online-Suche aber nur ankommt, wenn es prominent gezeigt wird",
+      "Das breite Einzugsgebiet bedeutet viel Konkurrenz, und wer bei der Suche nicht oben steht, verliert Anfragen an oertliche Wettbewerber",
+      "Hochwertige Design-Belaege und Beschichtungen werden gezielt gesucht, doch ohne passende Online-Praesenz finden Interessenten genau diese Spezialleistung nicht"
+    ],
+    "opener": "Estrich in dritter Generation als Meisterbetrieb, dazu hochwertige Design-Belaege wie Steinteppich und Metallic-Harz, das hebt euch klar vom Standard ab. Wir sorgen dafuer, dass Bauherren in eurem grossen Einzugsgebiet rund um St. Leon-Rot genau diese Staerke finden und bei euch anfragen."
+  },
+  "fliesenprojekt-mannheim": {
+    "slug": "fliesenprojekt-mannheim",
+    "company": "Fliesen Projekt",
+    "gewerk": "boden",
+    "facts": [
+      "Fliesenverlegung fuer Privat- und Gewerbeobjekte im gesamten Rhein-Neckar-Raum (Mannheim, Heidelberg, Ludwigshafen, Schwetzingen, Weinheim)",
+      "Bietet 5 Jahre Gewaehrleistung gemaess VOB und deckt neben Fliesen auch Estrich, Verputz und Abdichtung ab"
+    ],
+    "painpoints": [
+      "Die zugesagten 5 Jahre Gewaehrleistung nach VOB sind ein starkes Vertrauensargument, das viele Mitbewerber nicht so klar nennen, aber online kaum als Anlass zum Anrufen herausgestellt wird",
+      "Fliesen-Anfragen aus dem Privatbereich kommen oft abends und am Wochenende und gehen ohne schnelle Reaktion verloren",
+      "Im dicht besetzten Rhein-Neckar-Markt entscheidet die Online-Sichtbarkeit darueber, ob die Firma ueberhaupt angefragt wird"
+    ],
+    "opener": "Fliesen plus Estrich, Verputz und Abdichtung aus einer Hand und dazu 5 Jahre Gewaehrleistung nach VOB, das ist genau die Sicherheit, die Bauherren im Rhein-Neckar-Raum suchen. Wir sorgen dafuer, dass dieses Argument bei den Leuten ankommt, die gerade online nach einem Fliesenleger in Mannheim suchen."
+  },
+  "malermeister-worms": {
+    "slug": "malermeister-worms",
+    "company": "Benno Giegerich Malerbetrieb GmbH",
+    "gewerk": "maler",
+    "facts": [
+      "Malermeisterbetrieb in Worms fuer Innen- und Aussenarbeiten inklusive Beratung zu Farben und Tapeten",
+      "Wirbt mit einer Rundum-Sorglos-Garantie samt Abdeckungs- und Aufraeumarbeiten"
+    ],
+    "painpoints": [
+      "Die Rundum-Sorglos-Garantie ist genau das, was private Kunden hoeren wollen, kommt aber nur an, wenn sie online prominent ausgespielt wird",
+      "Maler-Anfragen von Privatkunden kommen oft abends und am Wochenende und versanden ohne schnelle Reaktion",
+      "Im Raum Worms entscheidet die Online-Sichtbarkeit darueber, ob ein Bauherr ueberhaupt eine Anfrage stellt oder gleich beim naechsten Betrieb landet"
+    ],
+    "opener": "Eure Rundum-Sorglos-Garantie mit Abdecken und Aufraeumen ist genau das, was private Kunden in Worms suchen, naemlich Streichen ohne Stress. Wir sorgen dafuer, dass dieses Versprechen bei den Leuten ankommt, die gerade online nach einem Maler in eurer Region suchen."
+  },
+  "meridiane": {
+    "slug": "meridiane",
+    "company": "Meridiane Bauplanungs- und Schlüsselfertigbau GmbH",
+    "gewerk": "bautraeger",
+    "facts": [
+      "Generalunternehmer fuer Mannheim, Heidelberg und den Rhein-Neckar-Raum, von Schwetzingen aus, mit eigener Planung und Architektur",
+      "Konkrete Referenzprojekte reichen von der Weissen Villa Heidelberg ueber die Karl-von-Drais-Schule Mannheim bis zum Kindergarten Mannheim-Waldhof"
+    ],
+    "painpoints": [
+      "Vorzeige-Referenzen wie die Weisse Villa oder die Karl-von-Drais-Schule sind ein starkes Argument, das bei Bauherren aber nur ankommt, wenn es online gezielt sichtbar ist",
+      "Schluesselfertig-Projekte und Gewerbebau werden von Auftraggebern ausgiebig verglichen, und wer da nicht praesent ist und schnell reagiert, kommt gar nicht in die engere Wahl",
+      "Das breite Spektrum von Wohnbau bis Kindergartenbau spricht sehr unterschiedliche Auftraggeber an, die jeweils gezielt angesprochen werden muessen"
+    ],
+    "opener": "Referenzen wie die Weisse Villa in Heidelberg oder die Karl-von-Drais-Schule in Mannheim zeigen, dass ihr schluesselfertig in ganz unterschiedlichen Bereichen liefert. Wir helfen euch, genau diese Bandbreite so online zu zeigen, dass die passenden Auftraggeber im Rhein-Neckar-Raum bei euch anfragen."
+  },
+  "hillgmbh": {
+    "slug": "hillgmbh",
+    "company": "Hill Sanitär GmbH",
+    "gewerk": "shk",
+    "facts": [
+      "Sanitaer- und Heizungsbetrieb in Weinheim, Geschaeftsfuehrer Mario Fruehauf, Mitglied der Innung fuer Sanitaer und Heizung Weinheim",
+      "Bietet Sanitaer, Heizungsbau, erneuerbare Energien und Komplettsanierung sowie einen Bereitschafts- und Innungsnotdienst"
+    ],
+    "painpoints": [
+      "Der Bereitschafts- und Notdienst ist ein echtes Plus, doch im Notfall findet ein Kunde nur den Betrieb, der online sofort sichtbar und erreichbar ist",
+      "Anfragen zu erneuerbaren Energien und Heizungstausch sind aktuell stark nachgefragt und muessen schnell beantwortet werden, sonst gehen sie an den Wettbewerb",
+      "Die Innungsmitgliedschaft ist ein gutes Vertrauenssignal, wird aber bei einer kalten Online-Suche kaum als Argument wahrgenommen"
+    ],
+    "opener": "Sanitaer, Heizung und erneuerbare Energien plus Notdienst, das ist genau das Rundum-Paket, das Hausbesitzer in Weinheim suchen. Wir sorgen dafuer, dass Mario und das Team genau dann gefunden werden, wenn jemand in der Region kurzfristig einen verlaesslichen Betrieb braucht."
+  },
+  "zimmerei-moessinger": {
+    "slug": "zimmerei-moessinger",
+    "company": "Zimmerei Mössinger",
+    "gewerk": "rohbau",
+    "facts": [
+      "Meisterbetrieb im Zimmererhandwerk, beschreibt sich selbst als junges, innovatives Unternehmen",
+      "Velux-Experte und qualifizierter Partner für Dachfenster, spezialisiert auf Bau- und Renovierungsarbeiten auf und unter dem Dach"
+    ],
+    "painpoints": [
+      "Als junger Betrieb braucht es Sichtbarkeit gegen etablierte Zimmereien, gerade online finden Bauherren euch sonst schwer",
+      "Velux-Dachfenster-Anfragen kommen oft kurzfristig und müssen schnell beantwortet werden, sonst geht der Auftrag an den nächsten Partnerbetrieb",
+      "Telefon und WhatsApp parallel auf der Baustelle führen dazu, dass Anfragen liegen bleiben"
+    ],
+    "opener": "Dass ihr als junger Meisterbetrieb in Bensheim ausgerechnet auf Dachfenster und Velux setzt, finde ich klug, denn genau da entscheidet Tempo bei der Anfrage über den Auftrag. Wir zeigen euch, wie ihr keine Dachanfrage mehr verpasst."
+  },
+  "1000-watt": {
+    "slug": "1000-watt",
+    "company": "1000Watt Elektro",
+    "gewerk": "elektro",
+    "facts": [
+      "Inhaber Mert Colak, Meisterbetrieb (Handwerkskammer Mannheim Rhein-Neckar-Odenwald), VDE-zertifiziert",
+      "Spezialisiert auf Smart Home, Photovoltaik, Wallboxen/E-Mobilität und E-Check, mit 5,0-Sterne-Google-Bewertung"
+    ],
+    "painpoints": [
+      "Photovoltaik- und Wallbox-Anfragen sind beratungsintensiv, jede unbeantwortete Mail ist ein verlorener Auftrag mit hohem Wert",
+      "Die starke 5,0-Sterne-Reputation zieht viele Anfragen an, die sich neben der Montagearbeit kaum alle zeitnah beantworten lassen",
+      "Smart-Home-Kunden erwarten schnelle, kompetente Rückmeldung, sonst gehen sie zum nächsten Anbieter"
+    ],
+    "opener": "Eure 5,0 Sterne und der Fokus auf PV, Wallboxen und Smart Home in Schwetzingen zeigen, dass ihr handwerklich liefert, Mert. Genau deshalb wäre es schade, wenn beratungsintensive Anfragen wegen Zeitmangel liegen bleiben."
+  },
+  "aqtrockenbau": {
+    "slug": "aqtrockenbau",
+    "company": "A.Q Trockenbau",
+    "gewerk": "trockenbau",
+    "facts": [
+      "Spezialist für Trockenbau und Renovierung in Mannheim und Umgebung, Inhaber Herr Citaku",
+      "Bietet zusätzlich Verputz, Maler-, Fliesenleger- und Tapezierarbeiten sowie Laminatverlegung aus einer Hand"
+    ],
+    "painpoints": [
+      "Wer Trockenbau, Putz, Maler und Fliesen anbietet, bekommt sehr unterschiedliche Anfragen, die ohne System schwer zu sortieren sind",
+      "Bei vielen kleinteiligen Renovierungsanfragen geht ohne schnelle Rückmeldung leicht ein Auftrag verloren",
+      "Anfragen kommen per Telefon, Mail und WhatsApp gleichzeitig, während ihr auf der Baustelle steht"
+    ],
+    "opener": "Dass ihr in Mannheim Trockenbau, Putz, Maler und Fliesen aus einer Hand anbietet, ist für Renovierer ein starkes Argument. Wir helfen euch, all diese Anfragen so zu bündeln, dass keine mehr untergeht."
+  },
+  "fliesen-saug-e-k": {
+    "slug": "fliesen-saug-e-k",
+    "company": "Fliesen Saug e.K.",
+    "gewerk": "boden",
+    "facts": [
+      "Spezialisiert auf komplette Badsanierungen aus einer Hand und die Verlegung von Großformatfliesen",
+      "Ein Ansprechpartner für Planung, Koordination und Ausführung, Einzugsgebiet rund um Mannheim und Heidelberg"
+    ],
+    "painpoints": [
+      "Komplette Badsanierungen sind erklärungsbedürftig, da entscheidet die schnelle erste Rückmeldung über den Auftrag",
+      "Als Ein-Ansprechpartner-Betrieb landen alle Anfragen bei euch, das wird neben der Baustelle schnell zu viel",
+      "Großformatfliesen-Projekte ziehen anspruchsvolle Kunden an, die zügige und kompetente Antworten erwarten"
+    ],
+    "opener": "Euer Versprechen Badsanierung aus einer Hand mit einem festen Ansprechpartner ist genau das, was Kunden im Raum Mannheim suchen. Damit dieser eine Ansprechpartner nicht im Anfrage-Chaos untergeht, haben wir eine Lösung."
+  },
+  "kurt-heilmann": {
+    "slug": "kurt-heilmann",
+    "company": "Kurt Heilmann GmbH",
+    "gewerk": "maler",
+    "facts": [
+      "Familienbetrieb seit 1973, geführt von Maler- und Lackierermeister Uwe Heilmann",
+      "TÜV-zertifizierter Fachbetrieb für Wärmedämmverbundsysteme und Schimmelpilzbeseitigung, zertifizierter Partner von kt.COLOR, Referenzen u.a. Procter & Gamble, Deutsche Wohnen und die Städte Worms, Frankenthal und Mannheim"
+    ],
+    "painpoints": [
+      "Ein Betrieb mit Großkunden wie Procter & Gamble und öffentlichen Auftraggebern muss Anfragen professionell und schnell handhaben, sonst leidet der Ruf",
+      "Über 50 Jahre Erfahrung müssen online sichtbar gemacht werden, sonst gehen Privatkunden an jüngere Wettbewerber",
+      "Spezialleistungen wie Schimmelsanierung und WDVS sind erklärungsbedürftig und brauchen schnelle, fundierte Rückmeldung"
+    ],
+    "opener": "Ein Familienbetrieb seit 1973 mit Referenzen wie Procter & Gamble und den Städten Worms und Mannheim, das ist eine Reputation, um die euch viele beneiden. Wir sorgen dafür, dass diese Stärke auch online jede Anfrage in einen Termin verwandelt."
+  },
+  "whb-wiesloch": {
+    "slug": "whb-wiesloch",
+    "company": "WHB Wieslocher Handwerker Baugesellschaft mbH",
+    "gewerk": "bautraeger",
+    "facts": [
+      "Familienunternehmen Schindler in zweiter Generation mit Michael Schindler, über 35 Jahre Erfahrung in der Baubranche",
+      "Schlüsselfertige Bauprojekte in Massivbauweise mit Festpreis, Referenzprojekte Westend38, Zentrum5 und Waldquartier3 im Rhein-Neckar-Kreis"
+    ],
+    "painpoints": [
+      "Bei schlüsselfertigen Festpreisprojekten ist jede Bauherren-Anfrage hochwertig, eine verschleppte Rückmeldung kostet richtig Geld",
+      "Bauherren vergleichen mehrere Anbieter parallel, wer zuerst und professionell antwortet, gewinnt das Erstgespräch",
+      "Die Stärke als regionaler Familienbetrieb in zweiter Generation muss online so präsentiert werden, dass sie Vertrauen bei Erstkontakten schafft"
+    ],
+    "opener": "Dass die Familie Schindler mittlerweile in zweiter Generation schlüsselfertig und zum Festpreis baut, von Westend38 bis Waldquartier3, schafft genau das Vertrauen, das Bauherren suchen. Wir sorgen dafür, dass jede Bauherren-Anfrage sofort bei euch landet."
+  },
+  "gt-engler": {
+    "slug": "gt-engler",
+    "company": "Gebäudetechnik Engler",
+    "gewerk": "shk",
+    "facts": [
+      "Bietet Badsanierung, Heizungsmodernisierung, barrierefreie Bäder, Energieberatung sowie Lüftungs- und Klimatechnik aus Weinheim an"
+    ],
+    "painpoints": [
+      "Heizungs- und Badsanierungsanfragen kommen oft kurzfristig, wer nicht schnell zurückruft, verliert den Auftrag an den Mitbewerber",
+      "Energieberatung und Heizungsmodernisierung sind erklärungsbedürftig und binden viel Zeit, die neben der Montage fehlt",
+      "Anfragen über Telefon, Mail und WhatsApp gleichzeitig zu beantworten, ist neben der Baustelle kaum machbar"
+    ],
+    "opener": "Bei eurem Schwerpunkt auf Heizungsmodernisierung und barrierefreien Bädern in Weinheim sind schnelle Rückmeldungen oft entscheidend, weil solche Anfragen selten warten. Genau dabei wollen wir euch entlasten."
+  },
+  "winterbauer": {
+    "slug": "winterbauer",
+    "company": "Winterbauer GmbH",
+    "gewerk": "rohbau",
+    "facts": [
+      "Seit 100 Jahren am Markt, geführt von Geschäftsführer Sebastian Winterbauer, Einzugsgebiet Heidelberg, Mannheim und Umgebung",
+      "Dachdeckerei und Gerüstbau mit eigener Spenglerei-Werkstatt, 24-Stunden-Notfallservice für Dachreparaturen und Autokran-Vermietung"
+    ],
+    "painpoints": [
+      "Ein 24-Stunden-Notfallservice ist nur so gut wie die Erreichbarkeit, verpasste Notrufe bedeuten verlorene Aufträge und enttäuschte Kunden",
+      "100 Jahre Tradition müssen online so präsentiert werden, dass auch jüngere Bauherren euch finden und vertrauen",
+      "Dachschäden sind dringend, Kunden erwarten sofortige Rückmeldung, sonst rufen sie den nächsten Dachdecker an"
+    ],
+    "opener": "100 Jahre Winterbauer und ein 24-Stunden-Dachnotdienst in Heidelberg, das ist ein Versprechen, das ihr nur halten könnt, wenn wirklich jeder Notruf ankommt. Genau dafür sorgen wir, damit kein dringender Dachschaden mehr durchrutscht."
+  },
+  "elektro-putzke": {
+    "slug": "elektro-putzke",
+    "company": "Elektro Putzke",
+    "gewerk": "elektro",
+    "facts": [
+      "Geführt von Elektromeister Tom Putzke aus Wiesloch-Baiertal",
+      "Leistungen von Altbausanierung und Neubau über Datentechnik, Netzwerke und SAT-Anlagen bis zu Sprechanlagen und Garagentorantrieben"
+    ],
+    "painpoints": [
+      "Als Meisterbetrieb mit breitem Leistungsspektrum kommen sehr verschiedene Anfragen, die ohne System schwer zu sortieren sind",
+      "Elektroaufträge sind oft dringend, wer nicht schnell zurückruft, verliert den Kunden an den nächsten Elektriker",
+      "Telefon, Mobil und Mail parallel im Blick zu behalten, ist neben der Montagearbeit kaum machbar"
+    ],
+    "opener": "Vom Altbau über Netzwerktechnik bis zur Sprechanlage deckt ihr in Wiesloch als Meisterbetrieb ein breites Feld ab, Tom. Bei so vielen unterschiedlichen Anfragen helfen wir euch, dass keine mehr untergeht und jede schnell beantwortet wird."
+  },
+  "kero-akustik": {
+    "slug": "kero-akustik",
+    "company": "KERO Trockenbau",
+    "gewerk": "trockenbau",
+    "facts": [
+      "Inhaber Sabahudin Kero, Sitz in Mannheim",
+      "Bietet Beratung, Umsetzung und Ausführung von Trockenbauprojekten, Domain und Name deuten auf einen Schwerpunkt Akustik hin"
+    ],
+    "painpoints": [
+      "Akustik- und Trockenbauprojekte sind planungsintensiv, da entscheidet die schnelle und kompetente erste Rückmeldung über den Auftrag",
+      "Wenn alle Anfragen beim Inhaber landen, bleibt neben der Baustelle kaum Zeit, sie zeitnah zu beantworten",
+      "Telefon, Mobil und Mail parallel zu bedienen führt dazu, dass Anfragen liegen bleiben"
+    ],
+    "opener": "Trockenbau und Akustik sauber zu planen und umzusetzen ist euer Kerngeschäft in Mannheim, Herr Kero, und genau bei solchen Projekten zählt eine schnelle erste Antwort. Damit keine Anfrage mehr bei euch liegen bleibt, haben wir eine Lösung."
+  },
+  "fliesen-ehrler": {
+    "slug": "fliesen-ehrler",
+    "company": "Ehrler Fliesenfachgeschäft",
+    "gewerk": "boden",
+    "facts": [
+      "Meisterbetrieb mit über 15 Jahren Erfahrung, Mitglied der Fliesenlegerinnung Rhein-Neckar-Odenwald",
+      "Spezialisiert auf Fliesen-, Mosaik- und Natursteinarbeiten sowie Bad-Komplett-Sanierungen, mit Reparaturservice inklusive Wasserschaden-Dokumentation"
+    ],
+    "painpoints": [
+      "Bad-Komplettsanierungen sind erklärungsbedürftig, da entscheidet die schnelle erste Rückmeldung über den Auftrag",
+      "Über 15 Jahre Erfahrung und die Innungsmitgliedschaft müssen online sichtbar gemacht werden, sonst gehen Kunden an jüngere Wettbewerber",
+      "Wasserschäden sind dringend, Kunden erwarten sofortige Reaktion, sonst rufen sie den nächsten Betrieb an"
+    ],
+    "opener": "Ein Meisterbetrieb mit über 15 Jahren Erfahrung und Innungsmitgliedschaft, der Bäder komplett saniert und sogar Wasserschäden dokumentiert, das ist im Raum Heidelberg ein starkes Argument. Wir sorgen dafür, dass jede dieser Anfragen sofort bei euch ankommt."
+  },
+  "malerbetrieb-turgetto": {
+    "slug": "malerbetrieb-turgetto",
+    "company": "Malerbetrieb Turgetto",
+    "gewerk": "maler",
+    "facts": [
+      "Familienbetrieb in zweiter Generation, geführt von Malermeister Stefan Strauß (Meisterbrief 1997), seit 2023 unterstützt von Sohn Simon",
+      "Schwerpunkt Privatkunden mit Maler-, Tapezier-, Spachtel- und Lasurtechniken, Bodenbelägen, Fassaden und Wärmedämmung, verwendet hochwertige Produkte von Wässa und Schuster"
+    ],
+    "painpoints": [
+      "Als kleines Vater-Sohn-Team mit Privatkundenfokus bleibt neben der Baustelle kaum Zeit, alle Anfragen zeitnah zu beantworten",
+      "Privatkunden vergleichen mehrere Maler, wer zuerst und freundlich zurückmeldet, bekommt den Auftrag",
+      "Die Qualität und Tradition des Betriebs muss online sichtbar werden, sonst finden Kunden euch in Worms schwer"
+    ],
+    "opener": "Dass Stefan und Simon Strauß den Malerbetrieb in zweiter Generation Hand in Hand führen und konsequent auf Privatkunden und Qualität setzen, ist genau das, was Hausbesitzer in Worms suchen. Damit als kleines Team keine Anfrage liegen bleibt, haben wir eine Lösung."
+  },
+  "greif-gartengestaltung": {
+    "slug": "greif-gartengestaltung",
+    "company": "Greif Gartenbau + Natursteinhandel",
+    "gewerk": "bautraeger",
+    "facts": [
+      "Garten- und Landschaftsbau mit eigenem Natursteinhandel aus Heppenheim, Schwerpunkte Natursteinarbeiten, Terrassen, Wasser im Garten sowie Baum- und Gartenpflege"
+    ],
+    "painpoints": [
+      "Garten- und Natursteinprojekte sind beratungsintensiv und saisonal, in der Hochsaison stapeln sich die Anfragen schneller, als sie zu beantworten sind",
+      "Aufwendige Gestaltungsprojekte brauchen eine schnelle erste Rückmeldung, sonst geht der Kunde zum nächsten GaLaBau-Betrieb",
+      "Anfragen über Telefon, Mail und WhatsApp parallel zu bedienen, ist neben der Arbeit auf der Baustelle kaum machbar"
+    ],
+    "opener": "Dass ihr in Heppenheim Garten- und Landschaftsbau mit eigenem Natursteinhandel verbindet, von der Terrasse bis zum Wasser im Garten, ist ein rundes Angebot. Gerade in der Saison helfen wir euch, dass keine dieser Anfragen mehr untergeht."
+  },
+  "dachdeckerei-ehrhardt": {
+    "slug": "dachdeckerei-ehrhardt",
+    "company": "Sven Ehrhardt GmbH",
+    "gewerk": "rohbau",
+    "facts": [
+      "Dachdeckermeisterbetrieb aus Mannheim, 1995 gegründet (zunächst als EHLO GbR), 2003 von Sven Ehrhardt von seinem Vater übernommen und 2018 in eine GmbH umgewandelt.",
+      "Tätig in den Regionen Mannheim, Brühl und Bühl, mit Flachdachabdichtung, Steildachdeckung, Gründächern, Spenglerarbeiten und Sturmschadensanierung."
+    ],
+    "painpoints": [
+      "Sturmschaden- und Reparaturanfragen kommen telefonisch rein, lassen sich aber zwischen Baustelle und Vorberatung kaum zeitnah beantworten.",
+      "Vor-Ort-Beratungstermine müssen einzeln per Telefon koordiniert werden, das frisst Zeit, die auf dem Dach fehlt.",
+      "Wartungskunden und einmalige Notfälle laufen in denselben Kanal, ohne dass etwas Dringendes vorgezogen wird."
+    ],
+    "opener": "Ihr habt den Betrieb seit 2003 vom Vater übernommen und bis zur GmbH 2018 weiterentwickelt, vom Flachdach bis zur Sturmschadensanierung. Genau in so einem gewachsenen Meisterbetrieb gehen die schnellen Reparaturanfragen oft im Tagesgeschäft unter, und genau da setzen wir an."
+  },
+  "baumann-mdc-gmbh": {
+    "slug": "baumann-mdc-gmbh",
+    "company": "Baumann-MDC GmbH",
+    "gewerk": "trockenbau",
+    "facts": [
+      "Fachbetrieb für Fliesen-, Stuckateur- und Estricharbeiten, geführt von Geschäftsführer Farzad Husaini, tätig in Heidelberg, Mannheim und dem Rhein-Neckar-Kreis.",
+      "Positioniert sich als Generalunternehmer nach dem Prinzip \"Alles aus einer Hand\" mit einem zentralen Ansprechpartner, von Fliesen über Trockenbau und Putz bis zu Bodenbelägen."
+    ],
+    "painpoints": [
+      "Wer alles aus einer Hand anbietet, bekommt sehr unterschiedliche Anfragen herein, vom Bad bis zur Kellersanierung, und muss jede einzeln am Telefon sortieren.",
+      "Als zentraler Ansprechpartner für ein ganzes Gewerke-Bündel landet die komplette Erstkommunikation bei einer Person.",
+      "Ohne Vorqualifizierung kostet jede Anfrage ein Telefonat, bevor klar ist, ob es ein echtes Projekt ist."
+    ],
+    "opener": "Ihr macht als Generalunternehmer alles aus einer Hand, von Fliesen über Trockenbau bis zur Kellersanierung, mit einem zentralen Ansprechpartner. Genau dieser eine Ansprechpartner ist auch der Engpass, wenn alle Anfragen über ein Telefon laufen, und da können wir euch entlasten."
+  },
+  "fliesenleger-heidelberg": {
+    "slug": "fliesenleger-heidelberg",
+    "company": "Wolf & Schuranski GdbR",
+    "gewerk": "boden",
+    "facts": [
+      "Traditionsunternehmen aus Heidelberg mit 40 Jahren Erfahrung, anerkannter Meisterbetrieb für Fliesen und Trockenbau, geführt von den beiden Inhabern Wolf und Schuranski.",
+      "Schwerpunkte sind Fliesenverlegung, Badezimmersanierung, Trockenbau und Altbausanierung."
+    ],
+    "painpoints": [
+      "Bei 40 Jahren Ruf kommen viele Empfehlungsanfragen rein, die alle persönlich beantwortet werden wollen.",
+      "Badsanierungen brauchen ein langes Erstgespräch, das sich zwischen den Baustellen schwer einplanen lässt.",
+      "Als Zwei-Mann-Meisterbetrieb fehlt schlicht die Zeit, jede Anfrage sofort zurückzurufen."
+    ],
+    "opener": "Mit 40 Jahren Erfahrung als Meisterbetrieb für Fliesen und Trockenbau in Heidelberg habt ihr euch einen Namen gemacht, und entsprechend viele Empfehlungsanfragen kommen rein. Wenn ihr als kleines Team nicht jeden Rückruf sofort schafft, springen genau diese Interessenten ab, und da setzen wir an."
+  },
+  "maler-worms": {
+    "slug": "maler-worms",
+    "company": "CrazyCrafterS GmbH",
+    "gewerk": "maler",
+    "facts": [
+      "Meisterbetrieb aus Worms, positioniert sich als \"Ihr Baupartner in Worms\" mit Malerarbeiten, Lackierarbeiten, Trockenbau, Innen- und Außenputz, Wärmedämmung und Fliesenarbeiten.",
+      "Betont hohe Qualität, kundenorientierte und termintreue Ausführung sowie Zuverlässigkeit."
+    ],
+    "painpoints": [
+      "Termintreue lebt von guter Planung, aber wenn Anfragen zwischen mehreren Gewerken eintrudeln, ist die Vorqualifizierung mühsam.",
+      "Wer Maler und Putz und Trockenbau anbietet, bekommt sehr gemischte Anfragen, die erst einmal sortiert werden müssen.",
+      "Erstkontakte gehen verloren, wenn das Team auf der Baustelle ist und keiner ans Telefon kann."
+    ],
+    "opener": "Ihr stellt Termintreue und Zuverlässigkeit als Baupartner in Worms in den Vordergrund. Genau das gerät unter Druck, wenn Anfragen reinkommen, während euer Team auf der Baustelle steht und keiner abnehmen kann, und genau diese Lücke schließen wir."
+  },
+  "landschaftsbau-meron": {
+    "slug": "landschaftsbau-meron",
+    "company": "Landschaftsbau MerOn",
+    "gewerk": "bautraeger",
+    "facts": [
+      "Garten- und Landschaftsbaubetrieb aus Heppenheim mit über 15 Jahren Erfahrung in Gartenbau und Landschaftsbau.",
+      "Leistungen reichen von Gartengestaltung und Pflasterarbeiten über Rollrasen und Gartenpflege bis zu Tiefbau und Vorbereitungsarbeiten für E-Ladestationen."
+    ],
+    "painpoints": [
+      "Gartenprojekte sind saisonal, im Frühjahr kommen alle Anfragen gleichzeitig und können telefonisch kaum alle bedient werden.",
+      "Pflege- und Neuanlage-Anfragen mischen sich, ohne dass die größeren Projekte priorisiert werden.",
+      "Während der Arbeit draußen bleibt das Telefon liegen, und Interessenten wandern zum Nächsten weiter."
+    ],
+    "opener": "Mit über 15 Jahren Erfahrung im Garten- und Landschaftsbau in Heppenheim kennt ihr den Frühjahrsansturm, wenn plötzlich alle gleichzeitig anfragen. Wenn ihr draußen auf der Fläche steht und das Telefon liegen bleibt, gehen genau dann Aufträge verloren, und da können wir euch unterstützen."
+  },
+  "frank-weber-heizung-sanitar": {
+    "slug": "frank-weber-heizung-sanitar",
+    "company": "Frank Weber Heizung & Sanitär",
+    "gewerk": "shk",
+    "facts": [
+      "Meisterbetrieb für Heizung, Sanitär und Klima, Ansprechpartner für Neubau, Sanierung und Wartung.",
+      "Leistungen umfassen Wärmepumpen, Gas- und Ölkessel, Kundendienst, Enthärtungsanlagen, Bäder und Klimatechnik."
+    ],
+    "painpoints": [
+      "Wartungs- und Notfallanrufe (z.B. Heizungsausfall) müssen sofort beantwortet werden, das ist neben der Montagearbeit kaum machbar.",
+      "Anfragen zu Wärmepumpen und Bädern brauchen Beratung, die Zeit kostet, bevor klar ist, ob ein Auftrag dahintersteht.",
+      "Neubau, Sanierung und Wartung laufen in denselben Telefonkanal, ohne dass das Dringende vorgezogen wird."
+    ],
+    "opener": "Als Meisterbetrieb für Heizung, Sanitär und Klima seid ihr für Neubau, Wartung und Sanierung gleichzeitig Ansprechpartner. Wenn dann ein Heizungsausfall reinkommt, während ihr in einem Bad montiert, muss der Anruf trotzdem beantwortet werden, und genau hier helfen wir euch."
+  },
+  "gessner-dach": {
+    "slug": "gessner-dach",
+    "company": "Gessner Dach- u. Gerüstbau GmbH",
+    "gewerk": "rohbau",
+    "facts": [],
+    "painpoints": [
+      "Dach- und Gerüstbauanfragen kommen oft kurzfristig und telefonisch rein, lassen sich zwischen den Baustellen aber schwer beantworten.",
+      "Notfälle wie Sturmschäden müssen sofort erfasst werden, sonst geht der Auftrag an den Nächsten.",
+      "Während das Team auf dem Dach oder am Gerüst arbeitet, bleibt das Telefon liegen und Erstkontakte verfallen."
+    ],
+    "opener": "Im Dach- und Gerüstbau zählt bei einer Anfrage oft jede Stunde, gerade bei Sturmschäden. Wenn euer Team oben am Gerüst steht und keiner ans Telefon kann, gehen genau diese kurzfristigen Aufträge verloren, und da setzen wir an."
+  },
+  "trockenbauer-mannheim": {
+    "slug": "trockenbauer-mannheim",
+    "company": "Trockenbau Mannheim",
+    "gewerk": "trockenbau",
+    "facts": [
+      "Trockenbaubetrieb mit über 10 Jahren Erfahrung, tätig in Mannheim und über Partner bundesweit (z.B. Frankfurt).",
+      "Leistungen umfassen abgehängte Decken, Trennwände, Akustikdecken, Schallschutz, Brandschutz und Innenausbau."
+    ],
+    "painpoints": [
+      "Bundesweite Tätigkeit über Partner bedeutet viel Koordination, die Erstanfragen müssen schnell und sauber erfasst werden.",
+      "Gewerbliche Trockenbauanfragen (Akustik, Brandschutz) brauchen eine klare Vorqualifizierung, bevor ein Angebot Sinn ergibt.",
+      "Während der Montage bleibt das Telefon liegen, und Anfragen gehen an Wettbewerber."
+    ],
+    "opener": "Mit über 10 Jahren Erfahrung im Trockenbau seid ihr in Mannheim und über Partner bundesweit unterwegs. Bei so viel Koordination müssen Erstanfragen schnell und sauber erfasst werden, sonst geht Zeit verloren, und genau dabei können wir euch entlasten."
+  },
+  "ixxion": {
+    "slug": "ixxion",
+    "company": "IXXION Naturstein",
+    "gewerk": "boden",
+    "facts": [
+      "Meisterbetrieb für Granit, Marmor, Quarzkomposit und Fliesen aus Heidelberg, IHK-zertifiziert und nach eigener Aussage seit rund 30 Jahren am Markt (\"Meisterhaft seit 30 Jahren\").",
+      "Spezialisiert auf hochwertige Natursteinbearbeitung mit CNC-Präzision, von Küchenarbeitsplatten über Bäder und Treppen bis zu Fensterbänken, tätig in Heidelberg, Mannheim und der gesamten Region."
+    ],
+    "painpoints": [
+      "Maßanfertigungen aus Naturstein brauchen eine genaue Erstberatung, die viel Telefon- und Aufmaßzeit bindet.",
+      "Anfragen zu Küchenarbeitsplatten und Bädern kommen oft mit vielen Detailfragen, die vor einem Angebot geklärt werden müssen.",
+      "Zwischen Werkstatt, CNC und Montage bleibt wenig Zeit, jede eingehende Anfrage sofort zu beantworten."
+    ],
+    "opener": "Seit rund 30 Jahren liefert ihr als Meisterbetrieb Naturstein mit CNC-Präzision, von der Küchenarbeitsplatte bis zur Treppe. Gerade bei solchen Maßanfertigungen kostet jede Anfrage viel Beratungszeit, bevor klar ist, ob ein Auftrag dahintersteht, und genau da setzen wir an."
+  },
+  "malersoehnel": {
+    "slug": "malersoehnel",
+    "company": "Andre Söhnel Malerbetrieb",
+    "gewerk": "maler",
+    "facts": [
+      "Familien- und Meisterbetrieb, geführt von André und Sarah Söhnel, tätig in Mannheim, Heidelberg, Ludwigshafen, Frankenthal und der gesamten Rhein-Neckar-Region.",
+      "Bietet neben Maler- und Lackierarbeiten auch Bodenbeläge, Trockenbau, Schimmelbeseitigung und Wandgestaltung an, inklusive direktem Bedrucken von Wänden mit Logos und Motiven vor Ort."
+    ],
+    "painpoints": [
+      "Als Familienbetrieb tragen André und Sarah Söhnel die komplette Kundenkommunikation neben der eigentlichen Arbeit selbst.",
+      "Das breite Leistungsspektrum von Malerei bis Wandbedruckung bringt sehr unterschiedliche Anfragen, die erst einmal sortiert werden müssen.",
+      "Wenn beide auf der Baustelle sind, bleibt das Telefon liegen und Interessenten warten nicht."
+    ],
+    "opener": "Ihr führt euren Malerbetrieb als Familie, André und Sarah, von der klassischen Malerei bis zur Wandbedruckung in der ganzen Rhein-Neckar-Region. Genau als Familienbetrieb hängt die komplette Kundenkommunikation an euch beiden, und wenn ihr auf der Baustelle steht, gehen Anfragen verloren, da setzen wir an."
+  },
+  "r-schmitt-galabau": {
+    "slug": "r-schmitt-galabau",
+    "company": "R. Schmitt GmbH & Co. KG",
+    "gewerk": "bautraeger",
+    "facts": [
+      "Garten- und Landschaftsbaubetrieb aus Mannheim, seit mehreren Generationen im Besitz der Familie Stark und geführt von Dominik Stark, Meister und Techniker im Garten- und Landschaftsbau, Innungs-Meisterbetrieb.",
+      "Spezialisiert unter anderem auf Baumpflege mit Seil-Klettertechnik und Hubsteiger, dazu Gartengestaltung, Pflasterbau und Landschaftspflege für Privatpersonen, Immobilienverwaltungen und Industriebetriebe."
+    ],
+    "painpoints": [
+      "Anfragen von Privatkunden, Hausverwaltungen und Industrie laufen in denselben Kanal, ohne dass die größeren Aufträge priorisiert werden.",
+      "Saisonale Spitzen (Baumpflege, Pflasterbau) führen zu Anfragewellen, die telefonisch kaum alle bedient werden können.",
+      "Während das Team in der Seil-Klettertechnik am Baum hängt, kann niemand ans Telefon."
+    ],
+    "opener": "Euer Betrieb ist seit mehreren Generationen in Familienhand und heute von Dominik Stark als Innungs-Meisterbetrieb geführt, mit Spezialität Baumpflege per Seil-Klettertechnik. Wenn das Team aber gerade am Baum hängt, kann keiner ans Telefon, und genau diese verpassten Anfragen fangen wir für euch auf."
+  },
+  "eichhorn-hockenheim": {
+    "slug": "eichhorn-hockenheim",
+    "company": "Eichhorn Sanitär und Heizung",
+    "gewerk": "shk",
+    "facts": [
+      "Sanitär- und Heizungsbetrieb aus Hockenheim, geführt von Dustin Hoffmann, ausgezeichnet mit dem \"Handwerkstars\"-Gütesiegel (\"Geschätzt. Kompetent. Ausgezeichnet!\").",
+      "Schwerpunkte sind Heizungsmodernisierung, regeneratives Heizen, barrierefreie und modernisierte Bäder sowie Haustechnik bis hin zu Photovoltaik."
+    ],
+    "painpoints": [
+      "Anfragen zu Heizungsmodernisierung und Förderberatung brauchen ein längeres Erstgespräch, das neben der Montage kaum machbar ist.",
+      "Bad- und Heizungsnotfälle müssen sofort beantwortet werden, sonst geht der Kunde zum Nächsten.",
+      "Während das Team auf der Baustelle ist, bleibt das Telefon unbeantwortet und Interessenten springen ab."
+    ],
+    "opener": "Ihr seid in Hockenheim als \"Handwerkstars\"-ausgezeichneter Betrieb für Heizung, Bad und Haustechnik bekannt, von der Modernisierung bis zur Förderberatung. Gerade diese Beratungsanfragen kosten Zeit, die euch auf der Baustelle fehlt, und wenn das Telefon liegen bleibt, gehen sie verloren, da helfen wir euch."
+  },
+  "schneider-maler-mannheim": {
+    "slug": "schneider-maler-mannheim",
+    "company": "Schneider Maler Mannheim",
+    "gewerk": "trockenbau",
+    "facts": [
+      "Malerbetrieb aus Mannheim, der sich als erfahrener Betrieb mit langjähriger Erfahrung beschreibt und seit 2018 ausbildet.",
+      "Leistungen umfassen Anstrich-, Tapezier-, Lasur- und Lackierarbeiten, Kreativarbeiten, Verputz- und Spachtelarbeiten sowie Trockenbau."
+    ],
+    "painpoints": [
+      "Als Ausbildungsbetrieb ist die Zeit der erfahrenen Kräfte für Anleitung und Baustelle gebunden, das Telefon kommt zu kurz.",
+      "Maler- und Trockenbauanfragen mischen sich und müssen erst sortiert werden, bevor ein Angebot Sinn ergibt.",
+      "Während des Tagesgeschäfts von 7 bis 18 Uhr auf der Baustelle bleiben eingehende Anrufe unbeantwortet."
+    ],
+    "opener": "Ihr bildet seit 2018 selbst aus und seid mit eurem Team von früh bis abends auf den Baustellen unterwegs. Genau dann bleibt das Telefon liegen, und eingehende Anfragen wandern weiter, und genau diese Lücke schließen wir für euch."
+  },
+  "cerkini-trockenbau": {
+    "slug": "cerkini-trockenbau",
+    "company": "Cerkini Trockenbau",
+    "gewerk": "trockenbau",
+    "facts": [
+      "Bezeichnet sich als Trockenbau-Experten in Ludwigshafen am Rhein",
+      "Sehr breites Leistungsspektrum: Trockenbau, Innenausbau, Bodenbeläge, Dachausbau, Akustikbau, Raumausstattung, Deckensysteme, Fenster und Türen, Trockenestrich"
+    ],
+    "painpoints": [
+      "Breites Leistungsspektrum von Trockenbau bis Akustik und Dachausbau ist auf der Website nur als Liste sichtbar, ohne dass Interessenten den passenden Bereich schnell erfassen",
+      "Projektfotos und Referenzen sind da, aber Anfragen kommen vermutlich nur per Anruf, ohne strukturierte Erfassung",
+      "Akustikbau und Deckensysteme sind eine Nische, die online kaum von der einfachen Trockenbau-Konkurrenz abgehoben wird"
+    ],
+    "opener": "Ihr deckt in Ludwigshafen vom klassischen Trockenbau über Akustikbau bis zum Dachausbau alles ab. Genau diese Bandbreite lasse ich auf einer kurzen Demo-Seite so darstellen, dass Anfragende sofort den richtigen Bereich finden und euch direkt kontaktieren."
+  },
+  "genthner-heidelberg": {
+    "slug": "genthner-heidelberg",
+    "company": "Genthner Raumausstatter GmbH",
+    "gewerk": "boden",
+    "facts": [
+      "Sitz in Heidelberg-Handschuhsheim (Dossenheimer Landstr. 39)",
+      "Leistungen: Sonnenschutz, Vorhänge, Bodenbeläge, Polsterei, Wandbekleidung, Insektenschutz",
+      "Mitglied im Netzwerk Heidelberger Handwerk"
+    ],
+    "painpoints": [
+      "Klassischer Raumausstatter mit Ladengeschäft und festen Öffnungszeiten, aber ohne einfache Online-Anfrage für Termine außerhalb der Ladenzeiten",
+      "Breites Sortiment von Polsterei bis Bodenbeläge wird online kaum mit Referenzbildern untermauert",
+      "Mitgliedschaft im Netzwerk Heidelberger Handwerk als Vertrauenssignal wird kaum nach vorne gestellt"
+    ],
+    "opener": "Als Genthner Raumausstatter deckt ihr in Handschuhsheim von Polsterei bis Bodenbeläge die ganze Bandbreite ab und seid im Netzwerk Heidelberger Handwerk verankert. Auf einer kurzen Demo-Seite mache ich genau diese Vielfalt sichtbar und gebe Kunden eine einfache Anfragemöglichkeit auch außerhalb eurer Ladenzeiten."
+  },
+  "taeubel": {
+    "slug": "taeubel",
+    "company": "Malerbetrieb Täubel GmbH",
+    "gewerk": "maler",
+    "facts": [
+      "Gegründet 1963 von Matthias und Renate Täubel, heute in 3. Generation",
+      "Seit 01.02.2025 von Sabrina Fleer und Mark Ramsauer gemeinsam geleitet",
+      "Malermeisterbetrieb mit zertifiziertem NaturKalk-Fachbetrieb und Spezialisierung auf barrierefreies Wohnen, Betonsanierung und Wärmedämmung"
+    ],
+    "painpoints": [
+      "Über 60 Jahre Geschichte und der frische Führungswechsel 2025 sind ein starkes Vertrauenssignal, das online kaum erzählt wird",
+      "Spezialthemen wie NaturKalk-Systeme und barrierefreies Wohnen heben euch ab, gehen aber in der Leistungsliste unter",
+      "Die 3. Generation spricht eine ältere Stammkundschaft und jüngere Bauherren gleichzeitig an, ohne dass die Website beide klar abholt"
+    ],
+    "opener": "Seit 1963 und inzwischen in dritter Generation steht Täubel in Bensheim für Malerhandwerk, und mit der neuen Leitung seit 2025 beginnt ein frisches Kapitel. Genau diese Mischung aus 60 Jahren Erfahrung und Spezialthemen wie NaturKalk und barrierefreiem Wohnen bringe ich auf einer kurzen Demo-Seite überzeugend rüber."
+  },
+  "gala-gashi": {
+    "slug": "gala-gashi",
+    "company": "Garten- und Landschaftsbau Gashi",
+    "gewerk": "bautraeger",
+    "facts": [
+      "Garten- und Landschaftsbau mit Schwerpunkten Pflaster- und Wegebau, Zäune und Mauern, Kies- und Erdarbeiten",
+      "Bietet Gartenpflege (Heckenpflege, Gehölzschnitt, Baumfällarbeiten, Rollrasen) und Beregnungsanlagen",
+      "Wirbt mit kostenfreier Anfahrt und Erstberatung sowie einem zentralen Ansprechpartner"
+    ],
+    "painpoints": [
+      "Das Versprechen kostenfreie Anfahrt und Erstberatung ist ein starkes Argument, das auf der Website kaum als klarer Call-to-Action genutzt wird",
+      "Gartengestaltung lebt von Vorher-Nachher-Bildern, doch konkrete Referenzprojekte fehlen online",
+      "Ein zentraler Ansprechpartner ist ein Verkaufsargument, das gegenüber größerer GaLaBau-Konkurrenz kaum betont wird"
+    ],
+    "opener": "Ihr bietet bei Gashi kostenfreie Anfahrt und Erstberatung mit einem festen Ansprechpartner, das ist genau das, was Gartenkunden suchen. Auf einer kurzen Demo-Seite stelle ich dieses Versprechen samt euren Gestaltungsprojekten so nach vorne, dass aus Besuchern direkt Anfragen werden."
+  },
+  "czyzio-trockenbau": {
+    "slug": "czyzio-trockenbau",
+    "company": "CZYZIO Trockenbau",
+    "gewerk": "trockenbau",
+    "facts": [
+      "Inhaber Pawel Czyzio, laut Website über 30 Jahre Erfahrung im Bauwesen",
+      "Leistungen: Trocken- und Innenausbau, Bodenverlegung, Fenster und Türen, Maler- und Lackierarbeiten, Abbruch und Entkernung",
+      "Wirbt mit Galerie aus echten Projekten statt Katalogbildern und mit geprüften Meister-Partnern"
+    ],
+    "painpoints": [
+      "Über 30 Jahre Erfahrung und echte Projektfotos sind starke Argumente, die auf der Website wenig prominent platziert sind",
+      "Das breite Leistungsspektrum vom Trockenbau bis Abbruch wirkt online unübersichtlich",
+      "Der Hinweis auf geprüfte Meister-Partner als Qualitätssignal geht in den restlichen Inhalten unter"
+    ],
+    "opener": "Mit über 30 Jahren Erfahrung und einer Galerie aus echten Projekten statt Katalogbildern hebt ihr euch in Ludwigshafen klar ab. Genau diese Glaubwürdigkeit packe ich auf einer kurzen Demo-Seite so nach vorne, dass Anfragende sofort Vertrauen fassen und Kontakt aufnehmen."
+  },
+  "raumtex": {
+    "slug": "raumtex",
+    "company": "Raumtex GmbH",
+    "gewerk": "boden",
+    "facts": [
+      "Inhabergeführt von Geschäftsführer Benjamin Konrad, Sitz in Heidelberg",
+      "Leistungen: Gardinen, Bodenbeläge, Insekten- und Sonnenschutz, individuell geplant und montiert",
+      "Voller Service von Aufmaß vor Ort über Planung und Fertigung bis Montage und langfristige Betreuung"
+    ],
+    "painpoints": [
+      "Der Komplettservice von Aufmaß bis Montage ist ein starkes Argument, wird online aber kaum als Vorteil herausgestellt",
+      "Ladengeschäft mit festen Öffnungszeiten, aber ohne einfache Online-Terminanfrage für Aufmaß-Besuche",
+      "Bodenbeläge und Gardinen leben von Optik, doch Referenzbilder fehlen weitgehend"
+    ],
+    "opener": "Bei Raumtex bekommen Kunden in Heidelberg alles aus einer Hand, vom Aufmaß vor Ort bis zur Montage und langfristigen Betreuung. Diesen Rundum-Service mache ich auf einer kurzen Demo-Seite sichtbar und gebe euren Kunden eine einfache Möglichkeit, gleich einen Aufmaß-Termin anzufragen."
+  },
+  "malermeister-zieres": {
+    "slug": "malermeister-zieres",
+    "company": "Malermeister Zieres GmbH",
+    "gewerk": "maler",
+    "facts": [
+      "Inhabergeführter Meisterbetrieb von Moritz Zieres in Bensheim",
+      "Zertifizierter Energieberater (HWK), Schwerpunkte u.a. Wärmedämmung, Fassadenanstrich, Dachbeschichtung und ökologisches Bauen",
+      "Wirbt mit 5,0 von 5 Sternen bei Google und Referenzprojekten wie Fassadenanstrich Plankstadt und Neubauwohnung Walldorf"
+    ],
+    "painpoints": [
+      "Die Kombination Malermeister plus zertifizierter Energieberater (HWK) ist ein echtes Alleinstellungsmerkmal, das online nicht klar genug nach vorne gestellt wird",
+      "Top Google-Bewertung als Vertrauenssignal wird kaum sichtbar eingebunden",
+      "Als kleiner Betrieb mit nur wenigen Jahren konkurriert ihr gegen alteingesessene Maler, was die Online-Darstellung stärker abfedern müsste"
+    ],
+    "opener": "Als Malermeister und zugleich zertifizierter Energieberater HWK bietet ihr in Bensheim mehr als reines Streichen, gerade bei Wärmedämmung und Fassade. Diese Doppelqualifikation samt eurer Top-Google-Bewertung stelle ich auf einer kurzen Demo-Seite so heraus, dass ihr euch klar von der Konkurrenz abhebt."
+  },
+  "galabau-surdulli": {
+    "slug": "galabau-surdulli",
+    "company": "GALABAU SURDULLI",
+    "gewerk": "bautraeger",
+    "facts": [
+      "Garten- und Landschaftsbau aus Neustadt an der Weinstraße",
+      "Schwerpunkte: Pflaster- und Treppenbau, Pool- und Mauerbau",
+      "Wirbt mit termingerechter und sauberer Arbeit nach Kundenvorstellung"
+    ],
+    "painpoints": [
+      "Spezialisierung auf Pool- und Treppenbau hebt euch ab, geht aber im allgemeinen GaLaBau-Auftritt unter",
+      "Referenzbilder sind angedeutet, aber konkrete Projektbeispiele fehlen",
+      "Ohne Inhabername und Firmengeschichte wirkt die Seite weniger greifbar als bei der Konkurrenz"
+    ],
+    "opener": "Pflaster-, Treppen- und Poolbau in einer Hand ist genau das, was anspruchsvolle Gartenkunden rund um Neustadt suchen. Diese Schwerpunkte stelle ich auf einer kurzen Demo-Seite mit klaren Projektbildern so dar, dass aus Interessenten konkrete Anfragen werden."
+  },
+  "stukkateur-garrone": {
+    "slug": "stukkateur-garrone",
+    "company": "Salvatore Garrone Stukkateur",
+    "gewerk": "trockenbau",
+    "facts": [
+      "1993 von Salvatore Garrone gegründetes Gipser- und Stukkateurunternehmen in Frankenthal",
+      "Leistungen: Trockenbau, Innenputz, Malerarbeiten, Altbausanierung, Wärmedämmung, Spachteltechniken, Stucco Veneziano",
+      "Qualitätsanspruch Qualität vor Quantität mit hochwertigen Materialien"
+    ],
+    "painpoints": [
+      "Über 30 Jahre Bestehen seit 1993 sind ein starkes Vertrauenssignal, das online kaum erzählt wird",
+      "Edle Spezialtechniken wie Stucco Veneziano heben euch ab, gehen aber in der Leistungsliste unter",
+      "Hochwertige Spachtel- und Stuckarbeiten leben von Bildern, doch konkrete Referenzen fehlen auf der Website"
+    ],
+    "opener": "Seit 1993 steht Salvatore Garrone in Frankenthal für Gipser- und Stukkateurhandwerk mit Qualität vor Quantität, bis hin zu Stucco Veneziano. Genau diese über 30-jährige Erfahrung und eure edlen Spachteltechniken bringe ich auf einer kurzen Demo-Seite mit echten Projektbildern überzeugend zur Geltung."
+  },
+  "kolbparkett": {
+    "slug": "kolbparkett",
+    "company": "Kolbparkett",
+    "gewerk": "boden",
+    "facts": [
+      "Spezialisiert auf Parkett, Bodenbeläge und Restaurierungen",
+      "Schwerpunkt auf der Restaurierung alter Dielenböden, inklusive Treppen unter Denkmalschutz",
+      "Bietet Pflegemittel, Öl und Kleber zum Versand nach Hause an"
+    ],
+    "painpoints": [
+      "Die Nische Restaurierung historischer Dielen und Denkmalschutz-Treppen ist ein klares Alleinstellungsmerkmal, das online kaum betont wird",
+      "Eure Restaurierungsprojekte leben von Vorher-Nachher-Bildern, die auf der Seite aber nur knapp gezeigt werden",
+      "Der Versand von Pflegemitteln ist ein netter Zusatz, der aber nicht zur Leadgewinnung genutzt wird"
+    ],
+    "opener": "Ihr restauriert in Speyer alte Dielenböden und sogar Treppen unter Denkmalschutz, das ist eine Nische, die kaum jemand so beherrscht. Genau diese Spezialisierung stelle ich auf einer kurzen Demo-Seite mit Vorher-Nachher-Bildern in den Mittelpunkt, damit die richtigen Kunden euch finden."
+  },
+  "maler-birkemeyer": {
+    "slug": "maler-birkemeyer",
+    "company": "Malerbetrieb André Birkemeyer",
+    "gewerk": "maler",
+    "facts": [
+      "Meisterbetrieb von André Birkemeyer in der Region Bensheim",
+      "Leistungen: Maler-, Tapezier- und Verputzarbeiten, Spachteln, Trockenbau, Fassadensanierung, Wärmedämmung",
+      "Wirbt mit einem Team aus erfahrenen Malern"
+    ],
+    "painpoints": [
+      "Der Meisterbetrieb-Status ist ein gutes Vertrauenssignal, das online nicht stark genug nach vorne gestellt wird",
+      "Breites Leistungsspektrum von Malerarbeit bis Fassadensanierung wirkt online wenig fokussiert",
+      "Acht Beispielbilder sind vorhanden, aber ohne Projektbeschreibung bleibt ihre Wirkung gering"
+    ],
+    "opener": "Als Meisterbetrieb deckt ihr in der Region Bensheim von klassischen Malerarbeiten bis zur Fassadensanierung alles ab. Auf einer kurzen Demo-Seite stelle ich euren Meistertitel und eure Projektbilder so heraus, dass Interessenten sofort Vertrauen fassen und anfragen."
+  },
+  "gartenbau-salewsky": {
+    "slug": "gartenbau-salewsky",
+    "company": "Garten- und Landschaftsbau Salewsky",
+    "gewerk": "bautraeger",
+    "facts": [
+      "Garten- und Landschaftsbau aus Neustadt an der Weinstraße",
+      "Leistungen: Gartengestaltung und Beratung, Gartenpflege, Terrassen, Gartenwege, Wasserflächen, Begrünungsanlagen, Zaunanlagen",
+      "Setzt bei der Baumpflege mehrere Kletterer und ausgebildete Fachkräfte ein"
+    ],
+    "painpoints": [
+      "Die professionelle Baumpflege mit ausgebildeten Kletterern ist ein Spezialthema, das online kaum als Alleinstellungsmerkmal genutzt wird",
+      "Breites Leistungsspektrum von Terrassen bis Wasserflächen wirkt online unübersichtlich",
+      "Gartenprojekte leben von Bildern, doch konkrete Referenzen mit Vorher-Nachher fehlen"
+    ],
+    "opener": "Bei Salewsky gibt es in Neustadt nicht nur Gartengestaltung, sondern auch professionelle Baumpflege mit ausgebildeten Kletterern, das hebt euch von vielen GaLaBau-Betrieben ab. Diese Bandbreite stelle ich auf einer kurzen Demo-Seite so dar, dass Kunden gleich den passenden Bereich finden und anfragen."
+  },
+  "af-kempf": {
+    "slug": "af-kempf",
+    "company": "AF Ausbau und Fassade GmbH",
+    "gewerk": "trockenbau",
+    "facts": [
+      "Stuckateur-Meisterbetrieb mit Sitz in Viernheim, tätig im Kreis Bergstraße und Umgebung",
+      "Leistungen: Trockenbau, Innen- und Außenputz, Maler- und Tapezierarbeiten, Fliesenarbeiten, Wärmedämmung",
+      "Stellt Werte wie Qualität, Nachhaltigkeit und Zuverlässigkeit in den Vordergrund"
+    ],
+    "painpoints": [
+      "Der Stuckateur-Meisterbetrieb-Status ist ein starkes Vertrauenssignal, das auf der Website nicht prominent genug platziert ist",
+      "Breites Leistungsspektrum vom Putz bis zu Fliesen wirkt online wenig fokussiert auf eine klare Anfrage",
+      "Referenzen sind nur als Bilder ansehen angedeutet, ohne konkrete Projektbeschreibungen"
+    ],
+    "opener": "Als Stuckateur-Meisterbetrieb im Kreis Bergstraße bietet ihr von Trockenbau über Putz bis Fliesen alles aus einer Hand. Genau diesen Meistertitel und eure Bandbreite stelle ich auf einer kurzen Demo-Seite so nach vorne, dass Bauherren euch sofort als verlässlichen Partner wahrnehmen und Kontakt aufnehmen."
+  },
+  "stuckateur-scheidel": {
+    "slug": "stuckateur-scheidel",
+    "company": "Stuckateur Scheidel",
+    "gewerk": "trockenbau",
+    "facts": [
+      "Gegründet 1953 von Franz Scheidel, heute als Familienbetrieb in vierter Generation von Stuckateurmeister Peter Scheidel geführt (Helmut Scheidel 1970, Edmund Scheidel 1991, Peter Scheidel aktuell).",
+      "Meisterbetrieb mit Schwerpunkt auf individueller Wohnraumgestaltung, Naturkalkputz, Denkmalschutz und klassischer Stuck- und Rabitztechnik."
+    ],
+    "painpoints": [
+      "Über 70 Jahre Handwerksgeschichte und vier Generationen, aber diese Geschichte taucht in der Kundenkommunikation kaum auf, sodass jüngere Bauherren euch nicht sofort als ersten Anlauf für Putz und Stuck wahrnehmen.",
+      "Spezialthemen wie Naturkalkputz, Denkmalschutz und gesundes Wohnen sind erklärungsbedürftig und gehen in einer normalen Leistungsliste unter, statt gezielt die richtigen Anfragen zu bringen.",
+      "Anfragen kommen unstrukturiert per Telefon und Mail rein und kosten Zeit, die im Meisterbetrieb für die eigentliche Arbeit am Bau fehlt."
+    ],
+    "opener": "Vier Generationen Scheidel und über 70 Jahre Stuck und Putz seit 1953, das ist eine Geschichte, mit der sich kaum ein Wettbewerber in Viernheim messen kann. Genau diese Vertrauensbasis lässt sich nutzen, damit eure erklärungsbedürftigen Themen wie Naturkalkputz und Denkmalschutz die passenden Anfragen anziehen, statt in einer langen Leistungsliste unterzugehen."
+  },
+  "baeder-fliesentempel": {
+    "slug": "baeder-fliesentempel",
+    "company": "Bäder- und Fliesentempel",
+    "gewerk": "boden",
+    "facts": [
+      "Bietet nach eigener Aussage alles aus einer Hand für Bad, Wärme und Haustechnik, von Fliesenarbeiten mit Großformaten über Komplettsanierung mit Elektro, Putz und Trockenbau bis zu Heiztechnik und Wärmepumpen.",
+      "Standort Industriestraße 38a in Speyer mit eigenen Öffnungszeiten inklusive Samstag von 10 bis 14 Uhr, also mit Ausstellungs- und Beratungscharakter."
+    ],
+    "painpoints": [
+      "Euer Komplettangebot von Fliesen über Trockenbau bis Heiztechnik ist eine echte Stärke, aber genau das macht es Kunden schwer zu erkennen, dass sie bei euch wirklich alles aus einer Hand bekommen.",
+      "Barrierefreie Bäder und Wärmepumpen sind beratungsintensiv und Kunden vergleichen lange, bevor sie sich melden.",
+      "Anfragen über Telefon und Mail landen unsortiert, sodass schwer einzuschätzen ist, welche davon zu einer echten Komplettsanierung führen."
+    ],
+    "opener": "Alles aus einer Hand für Bad, Wärme und Haustechnik, das ist genau das, was viele Bauherren in Speyer suchen, aber selten an einem Ort finden. Mit einer klaren Seite, die euer Komplettangebot von Fliesen bis Wärmepumpe greifbar macht, kommen genau die Anfragen, bei denen sich die volle Bandbreite lohnt."
+  },
+  "tomekbau": {
+    "slug": "tomekbau",
+    "company": "Tomekbau GmbH",
+    "gewerk": "trockenbau",
+    "facts": [
+      "Breites Leistungsspektrum rund um Gebäudehülle und Innenausbau: Fassaden, Fenster, Haustüren, Garagentore, Glasgeländer, Fliesen, Klimaanlagen und Innenausbau.",
+      "Sitz in der Waldstraße 48 in Viernheim, mit Online-Kalkulation auf der Website."
+    ],
+    "painpoints": [
+      "Euer Leistungsspektrum reicht von Fassade über Fenster bis Innenausbau, doch diese Breite ist auf der Website kaum greifbar, sodass Kunden nicht sehen, wie viel ihr eigentlich abdeckt.",
+      "Für Fenster, Türen und Garagentore vergleichen Kunden stark über den Preis, und ohne klares Profil landet ihr schnell nur als eines von vielen Angeboten.",
+      "Eine Online-Kalkulation ist gut, bringt aber wenig, wenn die Seite selbst nicht überzeugt und die richtigen Interessenten zum Ausfüllen bewegt."
+    ],
+    "opener": "Von Fassade über Fenster und Garagentore bis zum kompletten Innenausbau deckt ihr in Viernheim eine beachtliche Bandbreite ab. Auf einer klaren Seite gebündelt wird daraus ein echtes Argument, statt dass Kunden nur einen einzelnen Preis vergleichen."
+  },
+  "peter-fliesenleger": {
+    "slug": "peter-fliesenleger",
+    "company": "Peter Jakab Fliesenlegerfachbetrieb",
+    "gewerk": "boden",
+    "facts": [
+      "Fliesenlegerfachbetrieb mit Schwerpunkt auf Großformatfliesen, kompletter Badsanierung inklusive Badgestaltungsberatung und LED-Technik im Bad.",
+      "Sitz in Hockenheim mit Öffnungszeiten auch samstags von 10 bis 12:30 Uhr und einem Portfolio mit Fotos abgeschlossener Arbeiten."
+    ],
+    "painpoints": [
+      "Großformatfliesen und LED-Bäder sind euer Aushängeschild, aber diese hochwertige Arbeit zeigt sich nur in Portfolio-Fotos ohne Kontext, sodass der Wert für neue Kunden nicht sofort ankommt.",
+      "Badsanierung ist eine Vertrauensentscheidung, und ohne sichtbare Beratungs- und Termintreue-Argumente vergleichen Kunden vor allem über den Preis.",
+      "Anfragen kommen über Telefon, doch ohne strukturierte Seite ist schwer zu steuern, welche davon zu größeren Komplettbädern führen."
+    ],
+    "opener": "Großformatfliesen und durchdachte LED-Bäder mit echter Termintreue, das ist Arbeit, die in Hockenheim auffällt, aber auf Portfolio-Fotos allein nicht ihren vollen Wert zeigt. Mit einer Seite, die genau diese Stärken sichtbar macht, kommen eher die anspruchsvollen Badprojekte rein, bei denen sich eure Sorgfalt auszahlt."
+  },
+  "innenausbau-gabler": {
+    "slug": "innenausbau-gabler",
+    "company": "Innenausbau Gabler",
+    "gewerk": "trockenbau",
+    "facts": [
+      "Inhaber Bastian Gabler ist gelernter Schreiner und arbeitet nach eigener Aussage seit 20 Jahren in diesem Handwerk, seine Leidenschaft entdeckte er schon als Kind durch seinen Großvater.",
+      "Leistungen von Trockenbau und Bodenbelägen über Tür- und Fensterbau bis zu Decken, Verkleidungen und Treppengestaltung, ergänzt seit Jahresbeginn um Heizung und Sanitär über den Partner Sanitär Gärtner."
+    ],
+    "painpoints": [
+      "Eure persönliche Geschichte vom Großvater bis zu 20 Jahren Schreinerhandwerk ist ein starkes Vertrauensargument, geht aber zwischen den vielen Leistungen auf der Seite leicht unter.",
+      "Mit der neuen Partnerschaft für Heizung und Sanitär bietet ihr jetzt mehr aus einer Hand, doch Kunden wissen oft gar nicht, dass sie das alles bei euch bekommen.",
+      "Als handgeführter Betrieb ohne großes Team kostet jede unpassende Anfrage Zeit, die für die eigentliche Arbeit fehlt."
+    ],
+    "opener": "20 Jahre Schreinerhandwerk und eine Leidenschaft, die schon beim Großvater begann, das ist genau die persönliche Geschichte, die Kunden bei Innenausbau Vertrauen gibt. Mit einer Seite, die das in den Vordergrund stellt und gleich zeigt, dass ihr seit Kurzem auch Heizung und Sanitär aus einer Hand abdeckt, kommen genau die passenden Anfragen rein."
+  },
+  "rritworks": {
+    "slug": "rritworks",
+    "company": "R.R. it works",
+    "gewerk": "trockenbau",
+    "facts": [
+      "Einzelunternehmen von René Richter aus Lampertheim, das individuelle Holzarbeiten wie Terrassenbau, Fahrzeugausbau, Küchenmontage und Möbelbau mit klassischem Ausbau verbindet.",
+      "Deckt Decken, Wände und Böden komplett ab: Trockenbau, Spachtel- und Malerarbeiten, Laminat- und Holzbodenverlegung sowie Türmontage."
+    ],
+    "painpoints": [
+      "Eure Mischung aus individuellem Holzhandwerk und klassischem Ausbau ist ungewöhnlich vielseitig, aber genau diese Bandbreite macht es Kunden schwer zu fassen, wofür sie euch anfragen sollen.",
+      "Als Einzelunternehmen ist die Zeit knapp, und jede unpassende Anfrage über Telefon oder Mail kostet Stunden, die auf der Baustelle fehlen.",
+      "Maßarbeiten wie Möbelbau und Fahrzeugausbau sind erklärungsbedürftig und schwer über einen reinen Preisvergleich zu vermitteln."
+    ],
+    "opener": "Von maßgefertigten Möbeln und Fahrzeugausbau bis zu Trockenbau und Bodenverlegung, das ist eine seltene Bandbreite für ein Einzelunternehmen in Lampertheim. Mit einer klaren Seite, die diese Vielseitigkeit ordnet, kommen gezielt die Anfragen rein, die wirklich zu eurer Maßarbeit passen, statt eurer knappen Zeit unnötig Telefonate zu kosten."
+  },
+  "bauer-sinsheim": {
+    "slug": "bauer-sinsheim",
+    "company": "BAUER GmbH & Co. KG Bauunternehmung",
+    "gewerk": "rohbau",
+    "facts": [
+      "Seit 1896 in Familienbesitz, also seit über 125 Jahren am Markt.",
+      "Geleitet von Dipl.-Ing. Wolfgang Bauer mit einem Team von 25 qualifizierten Mitarbeiterinnen und Mitarbeitern.",
+      "Breites Spektrum von Hochbau, Tiefbau und Industrieanlagen bis zu schlüsselfertigem Bauen, kommunalen Gebäuden und Brückenbau."
+    ],
+    "painpoints": [
+      "Ein über 125 Jahre alter Traditionsname wird online kaum sichtbar gemacht, während jüngere Wettbewerber bei Google und auf Social Media auftauchen.",
+      "Mit 25 Mitarbeitern hängt viel an Angeboten und Bauleitung, sodass wenig Zeit für strukturierte Anfragenbearbeitung und Nachfassen bleibt.",
+      "Die Bandbreite von Einfamilienhaus bis Brückenbau ist auf der Website schwer als klares Angebot für die jeweilige Zielgruppe erkennbar."
+    ],
+    "opener": "Dass die Bauunternehmung Bauer seit 1896 in Familienbesitz ist und ihr heute mit 25 Leuten unter Wolfgang Bauer vom Einfamilienhaus bis zum Brückenbau alles abdeckt, hat uns beeindruckt. Genau so ein gewachsener Betrieb verliert online oft Anfragen, die zur Stärke des Hauses passen würden."
+  },
+  "bau-mit-huber": {
+    "slug": "bau-mit-huber",
+    "company": "Fritz Huber GmbH",
+    "gewerk": "rohbau",
+    "facts": [
+      "Gegründet 1949, 2024 wird das 75-jährige Firmenjubiläum gefeiert.",
+      "Familiengeführtes Bauunternehmen mit drei Generationen Handwerker, zertifizierter Ausbildungsbetrieb.",
+      "Regional aus Sinsheim Reihen, überwiegend im Kraichgau tätig, von Rohbau und Gewerbebau bis schlüsselfertigem Bauen."
+    ],
+    "painpoints": [
+      "Ein Betrieb mit 75 Jahren Geschichte und drei Generationen erzählt diese Geschichte online kaum, obwohl genau das Vertrauen bei Bauherren schafft.",
+      "Die regionale Verankerung im Kraichgau wird digital wenig ausgespielt, sodass Anfragen aus dem direkten Umfeld an sichtbarere Wettbewerber gehen.",
+      "Als Ausbildungsbetrieb fehlt eine moderne Online-Präsenz, die auch Nachwuchs und Bewerber anspricht."
+    ],
+    "opener": "75 Jahre Fritz Huber und drei Generationen Handwerker im Kraichgau, das ist eine Geschichte, die viele Bauherren überzeugt, aber online kaum jemand zu sehen bekommt. Wir haben uns eure Seite angeschaut und sehen genau da Potenzial, mehr passende Anfragen aus der Region zu gewinnen."
+  },
+  "reinhard-bau": {
+    "slug": "reinhard-bau",
+    "company": "Hermann Reinhard GmbH & Co. KG",
+    "gewerk": "rohbau",
+    "facts": [
+      "Seit über 125 Jahren im hochwertigen Massivhausbau tätig, Inhaber sind Hans-Joachim Reinhard und Bastian Reinhard.",
+      "Spezialisiert auf schlüsselfertigen Massivhausbau in der Metropolregion Rhein-Neckar, im Kraichgau und rund um Sinsheim, Heidelberg und Mannheim.",
+      "Teil einer Qualitätsgemeinschaft, die sich seit fast 50 Jahren bewährt hat, mit 4,6 Sternen bei 26 Google-Rezensionen."
+    ],
+    "painpoints": [
+      "Über 125 Jahre Massivhausbau und feste Ansprechpartner sind ein starkes Verkaufsargument, das auf der Seite eher knapp dargestellt wird.",
+      "Mit nur 26 Google-Rezensionen bleibt viel Vertrauenspotenzial bei einer so etablierten Firma ungenutzt.",
+      "Im umkämpften Rhein-Neckar-Raum gehen schlüsselfertige Bauanfragen schnell an Anbieter mit präsenterem Online-Auftritt."
+    ],
+    "opener": "Über 125 Jahre Massivhausbau und mit Hans-Joachim und Bastian Reinhard echte feste Ansprechpartner im Haus, das ist genau das, was Bauherren in der Region suchen. Wir haben gesehen, dass diese Stärke online noch nicht voll zur Geltung kommt, und dabei können wir helfen."
+  },
+  "raatz-bau": {
+    "slug": "raatz-bau",
+    "company": "Raatz Gesellschaft für Hochbau mbH",
+    "gewerk": "rohbau",
+    "facts": [
+      "Seit über 20 Jahren im Hoch- und Tiefbau in Heidelberg tätig.",
+      "Besondere Erfahrung in der Wiederherstellung und Konservierung älterer Bausubstanz, auch bei Objekten im bewohnten Zustand.",
+      "Engagiert sich sozial, unter anderem mit Sponsoring für das Studierendenwerk Heidelberg und ein Projekt gesundes Frühstück im Kindergarten Waldzwerge."
+    ],
+    "painpoints": [
+      "Die Spezialisierung auf sensible Sanierung im bewohnten Zustand ist eine echte Nische, wird online aber nicht als klares Angebot herausgestellt.",
+      "In Heidelberg mit vielen Wettbewerbern gehen passende Sanierungsanfragen leicht an sichtbarere Anbieter.",
+      "Das soziale Engagement schafft Sympathie, wird digital aber kaum für die Außenwirkung genutzt."
+    ],
+    "opener": "Dass ihr in Heidelberg seit über 20 Jahren da zur Stelle seid, wo große Firmen nur mit den Schultern zucken, gerade bei älterer Bausubstanz im bewohnten Zustand, ist eine starke Nische. Genau solche Spezialanfragen lassen sich online gezielt gewinnen, und da sehen wir bei euch noch Luft nach oben."
+  },
+  "neckarbau": {
+    "slug": "neckarbau",
+    "company": "Neckar Bau GmbH",
+    "gewerk": "rohbau",
+    "facts": [
+      "Traditionsbetrieb seit 1989, also über 35 Jahre, mit über 700 realisierten Projekten und 27 Mitarbeitern.",
+      "Hoch- und Tiefbau mit Eigenpersonal von kleinen Fundamenten bis Mehrfamilienhäuser, dazu Rohbau, Sanierung, Keller abdichten und Rückbau.",
+      "Tätig im Rhein-Neckar-Kreis rund um Neckargemünd und Heidelberg, mit Premium-Projekten auch für Stars, Promis und VIPs."
+    ],
+    "painpoints": [
+      "Über 700 Projekte und 27 Mitarbeiter sind beeindruckende Zahlen, die online als Vertrauensbeweis noch stärker eingesetzt werden könnten.",
+      "Das breite Spektrum vom kleinen Fundament bis zum VIP-Projekt macht es Interessenten schwer, schnell das passende Angebot zu finden.",
+      "Mit Eigenpersonal hängt die Auslastung an einem stetigen Strom passender Anfragen, der ohne aktive Online-Sichtbarkeit schwankt."
+    ],
+    "opener": "Über 700 Projekte seit 1989 und 27 Leute mit Eigenpersonal, vom kleinen Fundament bis zu VIP-Bauten, das spricht für sich. Wir haben uns eure Seite angesehen und glauben, dass sich dieser Track Record online noch deutlich gezielter in passende Anfragen verwandeln lässt."
+  },
+  "schuppe-gmbh": {
+    "slug": "schuppe-gmbh",
+    "company": "Schuppe GmbH Hoch- und Tiefbau",
+    "gewerk": "rohbau",
+    "facts": [
+      "Seit 1949, also seit über sieben Jahrzehnten im Hoch- und Tiefbau in Walldorf tätig.",
+      "Deckt sämtliche Bereiche des Bauwesens ab, inklusive kleinerer Umbau- und Abbrucharbeiten sowie schlüsselfertiger Fertigstellung.",
+      "Aktuelles Projekt: Neubau von Arztpraxen und zwei Wohnungen in Walldorf an der Oberen Grabenstraße 17."
+    ],
+    "painpoints": [
+      "Über 70 Jahre Erfahrung sind ein starkes Argument, das auf der Website nur sehr knapp dargestellt wird.",
+      "Die breite Aufstellung von kleinen Umbauten bis schlüsselfertig macht das Profil online unscharf, sodass passende Interessenten schwer abzuholen sind.",
+      "Aktuelle Referenzprojekte wie der Neubau in Walldorf werden kaum für Außenwirkung und Neukundengewinnung genutzt."
+    ],
+    "opener": "Seit 1949 im Hoch- und Tiefbau in Walldorf und aktuell mit dem Neubau der Arztpraxen an der Oberen Grabenstraße, das ist eine solide Basis, die online noch viel mehr hergeben würde. Wir haben uns eure Seite angeschaut und sehen, wie sich über 70 Jahre Erfahrung gezielter in Anfragen umsetzen lassen."
+  },
+  "skupin-bauunternehmung": {
+    "slug": "skupin-bauunternehmung",
+    "company": "Skupin Bauunternehmung GmbH",
+    "gewerk": "rohbau",
+    "facts": [
+      "Gegründet 2009 von Thomas Skupin, ausgebildeter Physiker sowie Maurer- und Betonbaumeister.",
+      "Spezialist für Neubau, Sanierung im Bestand, Umbau und Anbau, mit mehreren hundert realisierten Projekten.",
+      "Feste, langjährig angestellte und sicherheitstechnisch geschulte Mitarbeiter, Standort in Leimen."
+    ],
+    "painpoints": [
+      "Ein Meister, der zugleich Physiker ist, ist ein ungewöhnliches Verkaufsargument, das online kaum erzählt wird.",
+      "Mehrere hundert Projekte seit 2009 sind ein guter Vertrauensbeweis, der digital noch nicht sichtbar gemacht wird.",
+      "In Leimen und Umgebung gehen Sanierungs- und Anbauanfragen leicht an Wettbewerber mit präsenterem Auftritt."
+    ],
+    "opener": "Ein Maurer- und Betonbaumeister, der zugleich Physiker ist, und seit 2009 schon mehrere hundert Projekte, das ist eine Kombination, die Vertrauen schafft, online aber kaum jemand mitbekommt. Wir haben uns eure Seite angesehen und sehen darin echtes Potenzial für mehr passende Anfragen rund um Leimen."
+  },
+  "wesch-eberbach": {
+    "slug": "wesch-eberbach",
+    "company": "Weschbau GmbH",
+    "gewerk": "rohbau",
+    "facts": [
+      "Etabliertes Tiefbauunternehmen aus Eberbach, spezialisiert auf Kanalbau, Erdbau, Rückhaltebauwerke, Hebeanlagen, Druckrohrleitungsbau und Außenanlagen.",
+      "RAL-GZ 961 AK2 zertifiziert, garantiert höchsten Standard beim Einbau von Abwasserleitungen und Kanälen bis 5 Meter Tiefe."
+    ],
+    "painpoints": [
+      "Die RAL-GZ 961 AK2 Zertifizierung ist ein starkes Qualitätssignal, das online nur am Rande erwähnt und nicht aktiv ausgespielt wird.",
+      "Die klare Spezialisierung auf Kanal- und Tiefbau wird digital wenig genutzt, um gezielt passende Ausschreibungen und Anfragen zu gewinnen.",
+      "Ohne sichtbare Referenzen und moderne Präsenz fällt es schwer, sich gegenüber größeren Tiefbauern abzuheben."
+    ],
+    "opener": "Dass ihr als Tiefbauer RAL-GZ 961 AK2 zertifiziert seid und Abwasserkanäle bis 5 Meter Tiefe einbaut, ist ein Qualitätsstempel, mit dem man online richtig punkten kann. Genau das wird auf eurer Seite aber noch zu leise erzählt, und dabei können wir helfen."
+  },
+  "zimmerei-pfeiffer": {
+    "slug": "zimmerei-pfeiffer",
+    "company": "Zimmerei Pfeiffer",
+    "gewerk": "rohbau",
+    "facts": [
+      "Inhaber Simon Pfeiffer ist Zimmerermeister, hat seine Ausbildung mit Auszeichnung abgeschlossen und die Meisterschule Karlsruhe absolviert.",
+      "Im Juni 2017 mit zwei Mitarbeitern den Schritt in die Selbständigkeit gewagt, Meisterbetrieb für Holzbau in Wiesloch und Umgebung.",
+      "Roto Profipartner für Dachfenster, kompetenter Partner rund ums Dach."
+    ],
+    "painpoints": [
+      "Ein junger Meisterbetrieb von 2017 muss sich Vertrauen erst online aufbauen, doch Referenzen und Leistungen sind auf der Seite kaum sichtbar.",
+      "Die Stärke rund ums Dach und der Roto Profipartner Status werden digital wenig ausgespielt, um gezielt Anfragen zu gewinnen.",
+      "Als kleiner Betrieb mit wenigen Leuten bleibt kaum Zeit, Anfragen aktiv nachzufassen und online präsent zu sein."
+    ],
+    "opener": "Mit Auszeichnung abgeschlossen, Meisterschule Karlsruhe und 2017 mutig in die Selbständigkeit gestartet, als Meisterbetrieb rund ums Dach in Wiesloch, das ist ein starker Start. Wir haben uns eure Seite angesehen und sehen viel Potenzial, diese Qualität online sichtbarer zu machen und mehr Anfragen zu gewinnen."
+  },
+  "holzbau-strobel": {
+    "slug": "holzbau-strobel",
+    "company": "Holzbau Strobel GmbH",
+    "gewerk": "rohbau",
+    "facts": [
+      "1947 von Helmut Strobel sen. gegründet, seit 1965 an Sohn Wolfgang Strobel und seit 2012 an die heutige Geschäftsführung übergeben, also ein Familienbetrieb über mehrere Generationen.",
+      "Geführt von Zimmermeister Helmut Strobel mit Meisterprüfung im Zimmerer- und Dachdeckerhandwerk, derzeit 10 Mitarbeiter, Ausbildungsbetrieb und Mitglied der Zimmererinnung Heidelberg.",
+      "Fachkompetenz im gesamten Holzbau, in kompletten Dacheindeckungen, in der Sturm- und Brandschadenbeseitigung sowie bei Wärmedämmung und Isolierung."
+    ],
+    "painpoints": [
+      "Fast 80 Jahre Familiengeschichte über mehrere Generationen sind ein enormes Vertrauensargument, das online kaum erzählt wird.",
+      "Die Doppelqualifikation als Zimmerer- und Dachdeckermeister ist ein klarer Vorteil, der digital nicht als Alleinstellungsmerkmal ausgespielt wird.",
+      "Als 10-Mann-Betrieb und Ausbildungsbetrieb fehlt eine moderne Präsenz, die sowohl Kunden als auch Nachwuchs anspricht."
+    ],
+    "opener": "Seit 1947 in Familienhand, inzwischen in dritter Generation, und mit einem Chef, der sowohl Zimmerer- als auch Dachdeckermeister ist, das ist eine Kombination, die bei Bauherren Vertrauen schafft. Wir haben uns eure Seite angeschaut und sehen, wie sich diese fast 80 Jahre Geschichte online noch viel stärker in Anfragen umsetzen lassen."
+  },
+  "schuster-hs": {
+    "slug": "schuster-hs",
+    "company": "Schuster Heizungs- und Sanitärtechnik GmbH",
+    "gewerk": "shk",
+    "facts": [
+      "Bietet Heizungstechnik und Modernisierung, Sanitärtechnik mit Badgestaltung, Klimatechnik, Umwelttechnik und Wasseraufbereitung an.",
+      "Übernimmt nach eigener Aussage alle anfallenden Arbeiten aus einer Hand, vom Abbau und der Entsorgung der Alteinbauten über Transporte und Anschlüsse bis zu Testläufen, Reinigung und Wartung.",
+      "Aktiv in Schwetzingen und der Metropolregion."
+    ],
+    "painpoints": [
+      "Komplettleistung von Beratung bis Wartung lässt sich auf der Website schlecht greifbar machen, Interessenten erkennen oft nicht, wie umfassend ihr aus einer Hand arbeitet.",
+      "Badmodernisierung und Heizungstausch sind erklärungsbedürftig, ohne Vorher-Nachher-Beispiele und klare Ablauferklärung springen Anfragen ab.",
+      "Bei Heizungs- und Sanitärnotfällen wollen Kunden sofort jemanden erreichen, ein einfacher Direktkontakt fehlt vielen Handwerker-Seiten."
+    ],
+    "opener": "Ihr deckt in Schwetzingen das komplette SHK-Spektrum von Heizung über Bad bis Wasseraufbereitung ab und nehmt euren Kunden dabei alles ab, vom Abbau der Alteinbauten bis zur Wartung. Genau dieses Rundum-Versprechen kann eure Website so darstellen, dass Interessenten direkt Vertrauen fassen und anfragen."
+  },
+  "wolf-raumausstatter": {
+    "slug": "wolf-raumausstatter",
+    "company": "Raumausstattung Wolf",
+    "gewerk": "boden",
+    "facts": [],
+    "painpoints": [
+      "Als Raumausstatter in Heidelberg lebt ihr von Beratung vor Ort, doch viele Kunden entscheiden heute zuerst online und ihr werdet gar nicht erst gefunden.",
+      "Bodenbeläge, Gardinen und Polsterarbeiten sind Geschmackssache, ohne sichtbare Referenzbilder fällt es Interessenten schwer, sich für eine Anfrage zu entscheiden.",
+      "Eine schwer erreichbare oder veraltete Website kostet Anfragen, gerade wenn Kunden schnell einen Termin zum Aufmaß wollen."
+    ],
+    "opener": "Ihr seid als Raumausstatter in Heidelberg aktiv, das heißt ihr lebt von Beratung und einem guten ersten Eindruck. Genau den kann eine klare, schnell erreichbare Website liefern, damit aus Besuchern echte Aufmaß-Termine werden."
+  },
+  "maler-sturm-pfuetzer": {
+    "slug": "maler-sturm-pfuetzer",
+    "company": "Sturm & Pfützer OHG",
+    "gewerk": "maler",
+    "facts": [
+      "Geführt von Jean Sturm als Malermeister und Patrick Pfützer als Stuckateurmeister, ein kombinierter Maler- und Stuckateur-Meisterbetrieb.",
+      "Verbindet Maler- und Tapezierarbeiten, Bodenbelagsarbeiten, kreative Gestaltungstechniken und Lackierarbeiten mit Stuckateurleistungen, Trockenbau und Brandschutz.",
+      "Sitz in Frankenthal."
+    ],
+    "painpoints": [
+      "Eure Stärke ist die Synergie aus zwei Meistergewerken, doch dieser Vorteil geht auf einer Standard-Website unter und Kunden sehen nur einen weiteren Malerbetrieb.",
+      "Gestaltungstechniken und Stuckarbeiten verkaufen sich über Bilder, ohne ein gepflegtes Referenzportfolio bleibt das Können unsichtbar.",
+      "Wer Trockenbau, Brandschutz und Maler aus einer Hand bekommt, spart sich mehrere Firmen, aber das müssen Interessenten auf den ersten Blick verstehen."
+    ],
+    "opener": "Bei euch treffen mit Jean Sturm und Patrick Pfützer ein Maler- und ein Stuckateurmeister unter einem Dach zusammen, das gibt es so nicht oft in Frankenthal. Diese Synergie aus zwei Gewerken kann eure Website klar herausstellen, statt sie in einer Standard-Leistungsliste untergehen zu lassen."
+  },
+  "fleck-galabau": {
+    "slug": "fleck-galabau",
+    "company": "Fleck Garten- & Landschaftsbau",
+    "gewerk": "bautraeger",
+    "facts": [
+      "Inhaber laut Impressum ist Joscha Fleck, geführt als Fleck Garten- & Landschaftsbau, Inh. Joscha Fleck.",
+      "Hochwertiger Garten- und Landschaftsbau seit über 40 Jahren.",
+      "Leistungen sind Gartengestaltung mit vorheriger Planung, Pflanzung, fachgerechter Einbau von Bewässerung und professionelle Gartenpflege, Sitz in Heidelberg."
+    ],
+    "painpoints": [
+      "Über 40 Jahre Erfahrung im Galabau sind ein starkes Argument, das auf der Website aber kaum zur Geltung kommt und Vertrauen liegen lässt.",
+      "Gartenprojekte verkaufen sich über Bilder, ohne sichtbare Vorher-Nachher-Referenzen können sich Interessenten das Ergebnis schlecht vorstellen.",
+      "Wer einen Garten umgestalten lassen will, sucht zuerst online, eine dünne Website führt dazu, dass solche hochwertigen Anfragen woanders landen."
+    ],
+    "opener": "Joscha, ihr macht hochwertigen Garten- und Landschaftsbau in Heidelberg seit über 40 Jahren, das ist eine Erfahrung, mit der die wenigsten mithalten können. Diese Geschichte und ein paar Vorher-Nachher-Beispiele eurer Gärten können auf einer guten Website direkt Anfragen auslösen."
+  },
+  "sanitaer-kraemer": {
+    "slug": "sanitaer-kraemer",
+    "company": "Sanitär Krämer GmbH & Co. KG",
+    "gewerk": "shk",
+    "facts": [
+      "1958 von Otto Krämer gegründet, seit 2002 von Konrad Krämer und Diana Krämer geführt, also ein Familienbetrieb mit über 65 Jahren Berufserfahrung.",
+      "Bildet seit über 50 Jahren eigene Lehrlinge aus.",
+      "Spezialisiert auf Modernisierung und Service rund ums Heizen inklusive Wärmepumpen, Badplanung mit bis zu drei erfahrenen Kreativ-Badplanern, plus Notdienst an Sonn- und Feiertagen mit reduzierten Zuschlägen, Sitz in Hockenheim."
+    ],
+    "painpoints": [
+      "Ein Familienbetrieb in dritter Hand seit 1958 strahlt Verlässlichkeit aus, doch genau diese Geschichte verschenkt eine nüchterne Website.",
+      "Wärmepumpe und Badmodernisierung sind erklärungsbedürftig und förderfähig, ohne klare Ablauf- und Beispiel-Darstellung springen unsichere Interessenten ab.",
+      "Euer Notdienst an Sonn- und Feiertagen ist ein echtes Alleinstellungsmerkmal, das online aber leicht erreichbar und sofort sichtbar sein muss, um Anfragen zu bringen."
+    ],
+    "opener": "Eure Geschichte spricht für sich, 1958 von Otto Krämer gegründet, seit 2002 von Konrad und Diana Krämer geführt und seit über 50 Jahren eigener Ausbildungsbetrieb in Hockenheim. Diese gewachsene Verlässlichkeit kann eure Website so erzählen, dass Kunden genau deshalb bei euch anfragen statt beim Nächstbesten."
+  },
+  "parkett-lulay": {
+    "slug": "parkett-lulay",
+    "company": "Lulay Parkett und Bodenleger",
+    "gewerk": "boden",
+    "facts": [
+      "Innungsfachbetrieb im Parkett- und Bodenleger-Handwerk mit mehr als 28 Jahren Berufserfahrung, Sitz in Speyer.",
+      "Verlegt alle Arten von Fußböden, darunter Mosaik-, Design-, Stab- und Massivparkett, Fertigparkett, Laminat, Dielen, Kork, Linoleum und Kautschuk.",
+      "Bietet zusätzlich Treppenrenovierungen, Massivstufen, Ölen, Abschleifen und Versiegeln sowie Unterböden, Trockenestriche und Terrassen-Decks an."
+    ],
+    "painpoints": [
+      "Mehr als 28 Jahre Erfahrung als Innungsfachbetrieb sind ein Qualitätssiegel, das auf der Website aber kaum Vertrauen aufbaut, wenn es nur nebenbei erwähnt wird.",
+      "Parkett und Bodenbeläge sind eine ästhetische Entscheidung, ohne sichtbare Referenzbilder verlegter Böden fällt Interessenten die Anfrage schwer.",
+      "Euer breites Leistungsspektrum vom Parkett bis zur Treppenrenovierung ist eine Stärke, kann auf einer unübersichtlichen Seite aber Kunden eher verwirren als überzeugen."
+    ],
+    "opener": "Ihr seid Innungsfachbetrieb mit über 28 Jahren Erfahrung und verlegt in Speyer wirklich jeden Boden, von Massivparkett bis zur Treppenrenovierung. Dieses Können und ein paar Bilder eurer Böden kann eine klare Website so präsentieren, dass aus Besuchern direkt Aufmaß-Anfragen werden."
+  },
+  "gugenbergers": {
+    "slug": "gugenbergers",
+    "company": "Malermeister Gugenberger",
+    "gewerk": "maler",
+    "facts": [
+      "Familienbetrieb in dritter Generation, 1949 gegründet, Meisterbetrieb des Maler- und Lackiererhandwerks in Heppenheim an der Bergstraße.",
+      "Spezialisiert auf Sanierung denkmalgeschützter Gebäude, Fachwerk-Sanierung, Lehmputze und Lehmwandheizungen sowie ökologisches Bauen mit nachhaltigen Baustoffen, mit Restaurator im Denkmalschutz.",
+      "Bietet komplette Innenausbauten aus einer Hand, Einzugsgebiet von Frankfurt am Main über die gesamte Bergstraße bis Mannheim und Ludwigshafen."
+    ],
+    "painpoints": [
+      "Ein Meisterbetrieb in dritter Generation seit 1949 mit Restaurator-Expertise ist eine Geschichte, die Vertrauen schafft, auf einer schlichten Website aber verschenkt wird.",
+      "Denkmalschutz, Fachwerk und Lehmbau sind eine wertvolle Nische, die online klar herausgestellt werden muss, damit genau diese hochwertigen Kunden euch finden.",
+      "Euer großes Einzugsgebiet von Frankfurt bis Ludwigshafen lässt sich nur ausschöpfen, wenn die Website in dieser ganzen Region sichtbar ist und Anfragen einsammelt."
+    ],
+    "opener": "Seit 1949 und in dritter Generation seid ihr als Meisterbetrieb auf Denkmalschutz, Fachwerk und ökologisches Bauen mit Lehm spezialisiert, das ist eine Nische, in der euch kaum jemand das Wasser reichen kann. Genau diese Spezialisierung und eure Geschichte kann eine Website so herausstellen, dass die passenden Kunden von Frankfurt bis Ludwigshafen gezielt bei euch landen."
+  }
+}
